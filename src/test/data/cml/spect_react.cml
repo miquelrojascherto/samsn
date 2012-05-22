@@ -1,0 +1,1849 @@
+<cml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <spectrumList xmlns="http://www.xml-cml.org/schema">
+    <metadataList>
+      <metadata dictRef="nmc:countScans" content="18"/>
+      <metadata dictRef="nmc:numGroups" content="6"/>
+      <metadata dictRef="nmc:protocol" content="leid.pos.v0.1"/>
+      <metadata dictRef="nmc:instrumentRef" content="leiden.Orbi"/>
+      <metadata dictRef="nmc:parentFile" content="negHMDB00039.mzXML" convention="mzXMLData"/>
+      <metadata dictRef="nmc:parentCompounds" content="InChI=1S/C18H32O3/c1-2-3-4-5-7-10-13-16-17(21-16)14-11-8-6-9-12-15-18(19)20/h7,10,16-17H,2-6,8-9,11-15H2,1H3,(H,19,20)/b10-7-" convention="InChI"/>
+      <metadata dictRef="nmc:mzgap" content="0.4"/>
+      <metadata dictRef="nmc:snthresh" content="0.2"/>
+      <metadata dictRef="nmc:rint" content="0.0"/>
+      <metadata dictRef="nmc:accuracy" content="15,15,15,15,15"/>
+      <metadata dictRef="nmc:elements" content="C1..50,H1..100,N0..30,O1..30"/>
+      <metadata dictRef="nmc:rules" content="nitrogenR,RDBER"/>
+      <metadata dictRef="nmc:SAMSversion" content="0.14"/>
+    </metadataList>
+    <spectrum id="0" type="MS">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">0</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">positive</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="0"/>
+        <metadata dictRef="nmc:msLevel" content="1"/>
+        <metadata dictRef="nmc:rt" content="607.215"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="1"/>
+      </metadataList>
+      <peakList>
+        <peak id="1.1" xValue="188.07041931152344" yValue="42010.92578125" moleculeRefs="1"/>
+        <peak id="1.2" xValue="190.08180236816406" yValue="19207.6875"/>
+        <peak id="1.3" xValue="192.1051788330078" yValue="32715.28125"/>
+        <peak id="1.4" xValue="196.16937255859375" yValue="54907.01953125"/>
+        <peak id="1.5" xValue="197.09188842773438" yValue="39419.85546875"/>
+        <peak id="1.6" xValue="198.18505859375" yValue="30670.841796875"/>
+        <peak id="1.7" xValue="199.10755920410156" yValue="18697.091796875"/>
+        <peak id="1.8" xValue="204.13427734375" yValue="10023.921875"/>
+        <peak id="1.9" xValue="205.09686279296875" yValue="1440757.375"/>
+        <peak id="1.10" xValue="206.10011291503906" yValue="165022.390625"/>
+        <peak id="1.11" xValue="209.13211059570312" yValue="10508.7880859375"/>
+        <peak id="1.12" xValue="211.1284942626953" yValue="10985.4443359375"/>
+        <peak id="1.13" xValue="213.0978240966797" yValue="12878.8115234375"/>
+        <peak id="1.14" xValue="217.10397338867188" yValue="17286.076171875"/>
+        <peak id="1.15" xValue="218.11305236816406" yValue="42330.57421875"/>
+        <peak id="1.16" xValue="220.12890625" yValue="103120.5078125"/>
+        <peak id="1.17" xValue="221.13258361816406" yValue="9323.8896484375"/>
+        <peak id="1.18" xValue="222.11265563964844" yValue="11415.3154296875"/>
+        <peak id="1.19" xValue="224.18524169921875" yValue="13693.46484375"/>
+        <peak id="1.20" xValue="225.1226348876953" yValue="9392.21875"/>
+        <peak id="1.21" xValue="229.1540985107422" yValue="17782.97265625"/>
+        <peak id="1.22" xValue="230.07688903808594" yValue="47056.19921875"/>
+        <peak id="1.23" xValue="231.11582946777344" yValue="9254.736328125"/>
+        <peak id="1.24" xValue="236.12791442871094" yValue="41372.30078125"/>
+        <peak id="1.25" xValue="238.09327697753906" yValue="22112.150390625"/>
+        <peak id="1.26" xValue="240.0975799560547" yValue="104211.75"/>
+        <peak id="1.27" xValue="246.12344360351562" yValue="114817.8515625"/>
+        <peak id="1.28" xValue="247.1269989013672" yValue="16806.1484375"/>
+        <peak id="1.29" xValue="249.20602416992188" yValue="9424.91015625"/>
+        <peak id="1.30" xValue="255.13369750976562" yValue="25083.423828125"/>
+        <peak id="1.31" xValue="256.2016296386719" yValue="49874.9609375"/>
+        <peak id="1.32" xValue="257.0989990234375" yValue="72155.578125"/>
+        <peak id="1.33" xValue="258.21728515625" yValue="45099.5859375"/>
+        <peak id="1.34" xValue="265.1291198730469" yValue="451699.28125"/>
+        <peak id="1.35" xValue="266.1327209472656" yValue="54228.30859375"/>
+        <peak id="1.36" xValue="269.1493835449219" yValue="26288.203125"/>
+        <peak id="1.37" xValue="274.1215515136719" yValue="49370.16015625"/>
+        <peak id="1.38" xValue="276.1801452636719" yValue="50138.48046875"/>
+        <peak id="1.39" xValue="279.1586608886719" yValue="37203.9921875"/>
+        <peak id="1.40" xValue="281.1128845214844" yValue="109744.8671875"/>
+        <peak id="1.41" xValue="282.11627197265625" yValue="13461.6005859375"/>
+        <peak id="1.42" xValue="294.10015869140625" yValue="10423.10546875"/>
+        <peak id="1.43" xValue="298.1645812988281" yValue="24087.556640625"/>
+        <peak id="1.44" xValue="302.19580078125" yValue="10810.4150390625"/>
+        <peak id="1.45" xValue="304.1750793457031" yValue="91344.078125"/>
+        <peak id="1.46" xValue="305.1793212890625" yValue="13934.0302734375"/>
+        <peak id="1.47" xValue="318.1545715332031" yValue="13542.005859375"/>
+        <peak id="1.48" xValue="328.1379089355469" yValue="9128.6162109375"/>
+        <peak id="1.49" xValue="344.115478515625" yValue="14603.716796875"/>
+        <peak id="1.50" xValue="352.1013488769531" yValue="22340.21484375"/>
+        <peak id="1.51" xValue="354.2843322753906" yValue="386523.0625"/>
+        <peak id="1.52" xValue="355.287841796875" yValue="75696.234375"/>
+        <peak id="1.53" xValue="356.15557861328125" yValue="22848.0234375"/>
+        <peak id="1.54" xValue="362.14404296875" yValue="18230.55859375"/>
+        <peak id="1.55" xValue="364.186767578125" yValue="16389.076171875"/>
+        <peak id="1.56" xValue="368.228515625" yValue="73071.34375"/>
+        <peak id="1.57" xValue="369.1495056152344" yValue="32360.13671875"/>
+        <peak id="1.58" xValue="391.2836608886719" yValue="85767.453125"/>
+        <peak id="1.59" xValue="392.2877197265625" yValue="24182.69140625"/>
+        <peak id="1.60" xValue="393.22222900390625" yValue="45345.54296875"/>
+        <peak id="1.61" xValue="394.2243957519531" yValue="9289.1083984375"/>
+        <peak id="1.62" xValue="397.2903747558594" yValue="114753.0546875"/>
+        <peak id="1.63" xValue="401.1568603515625" yValue="34316.9609375"/>
+        <peak id="1.64" xValue="409.1864318847656" yValue="72732.046875"/>
+        <peak id="1.65" xValue="453.15814208984375" yValue="37647.875"/>
+        <peak id="1.66" xValue="469.1526184082031" yValue="14063.4599609375"/>
+        <peak id="1.67" xValue="477.171630859375" yValue="21501.57421875"/>
+        <peak id="1.68" xValue="485.2023620605469" yValue="69752.6640625"/>
+        <peak id="1.69" xValue="486.2055969238281" yValue="20593.73828125"/>
+        <peak id="1.70" xValue="495.1827392578125" yValue="12925.818359375"/>
+        <peak id="1.71" xValue="505.1766052246094" yValue="29538.623046875"/>
+        <peak id="1.72" xValue="513.2080078125" yValue="24117.55078125"/>
+        <peak id="1.73" xValue="549.2066040039062" yValue="16537.29296875"/>
+        <peak id="1.74" xValue="552.2159423828125" yValue="31022.814453125"/>
+        <peak id="1.75" xValue="589.1822509765625" yValue="15903.6513671875"/>
+        <peak id="1.76" xValue="597.2152709960938" yValue="792461.625"/>
+        <peak id="1.77" xValue="598.2183227539062" yValue="241688.84375"/>
+        <peak id="1.78" xValue="639.2382202148438" yValue="13644.9423828125"/>
+        <peak id="1.79" xValue="649.2162475585938" yValue="13066.5634765625"/>
+        <peak id="1.80" xValue="785.241943359375" yValue="14475.2724609375"/>
+        <peak id="1.81" xValue="793.2725830078125" yValue="25604.099609375"/>
+        <peak id="1.82" xValue="801.3056640625" yValue="33490.19921875"/>
+        <peak id="1.83" xValue="802.30615234375" yValue="10967.3896484375"/>
+      </peakList>
+    </spectrum>
+    <spectrum id="1" type="MS">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">0</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">positive</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="1"/>
+        <metadata dictRef="nmc:msLevel" content="1"/>
+        <metadata dictRef="nmc:rt" content="609.09"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="2"/>
+      </metadataList>
+      <peakList>
+        <peak id="2.1" xValue="185.12820434570312" yValue="17688.951171875"/>
+        <peak id="2.2" xValue="188.07044982910156" yValue="109571.5859375" molRef="112"/>
+        <peak id="2.3" xValue="192.07981872558594" yValue="25244.484375"/>
+        <peak id="2.4" xValue="196.16934204101562" yValue="50524.421875"/>
+        <peak id="2.5" xValue="197.09181213378906" yValue="61915.86328125"/>
+        <peak id="2.6" xValue="198.18495178222656" yValue="30888.263671875"/>
+        <peak id="2.7" xValue="205.09683227539062" yValue="3492954.25"/>
+        <peak id="2.8" xValue="206.10011291503906" yValue="411625.65625"/>
+        <peak id="2.9" xValue="218.11326599121094" yValue="62464.86328125"/>
+        <peak id="2.10" xValue="220.1289825439453" yValue="119553.09375"/>
+        <peak id="2.11" xValue="230.07691955566406" yValue="53111.0859375"/>
+        <peak id="2.12" xValue="236.12803649902344" yValue="45020.984375"/>
+        <peak id="2.13" xValue="240.0976104736328" yValue="109405.828125"/>
+        <peak id="2.14" xValue="246.12342834472656" yValue="324870.125"/>
+        <peak id="2.15" xValue="247.12681579589844" yValue="48786.8984375"/>
+        <peak id="2.16" xValue="256.20184326171875" yValue="47833.6953125"/>
+        <peak id="2.17" xValue="258.2173767089844" yValue="44677.1171875"/>
+        <peak id="2.18" xValue="265.12908935546875" yValue="1077920.25"/>
+        <peak id="2.19" xValue="266.13287353515625" yValue="121414.1953125"/>
+        <peak id="2.20" xValue="268.05938720703125" yValue="35654.61328125"/>
+        <peak id="2.21" xValue="274.1214294433594" yValue="44065.7734375"/>
+        <peak id="2.22" xValue="276.1801452636719" yValue="30221.443359375"/>
+        <peak id="2.23" xValue="279.15924072265625" yValue="27137.1953125"/>
+        <peak id="2.24" xValue="281.1129150390625" yValue="99127.3515625"/>
+        <peak id="2.25" xValue="284.05462646484375" yValue="28341.08984375"/>
+        <peak id="2.26" xValue="292.1539611816406" yValue="36429.55859375"/>
+        <peak id="2.27" xValue="298.0963439941406" yValue="48792.05859375"/>
+        <peak id="2.28" xValue="302.1952819824219" yValue="32261.37109375"/>
+        <peak id="2.29" xValue="304.1751708984375" yValue="156999.03125"/>
+        <peak id="2.30" xValue="305.1792907714844" yValue="24323.36328125"/>
+        <peak id="2.31" xValue="318.1549072265625" yValue="33194.80859375"/>
+        <peak id="2.32" xValue="328.13751220703125" yValue="18346.197265625"/>
+        <peak id="2.33" xValue="352.10235595703125" yValue="36028.17578125"/>
+        <peak id="2.34" xValue="354.2843322753906" yValue="390801.875"/>
+        <peak id="2.35" xValue="355.28778076171875" yValue="76139.59375"/>
+        <peak id="2.36" xValue="362.1710510253906" yValue="22543.17578125"/>
+        <peak id="2.37" xValue="364.186279296875" yValue="41075.94140625"/>
+        <peak id="2.38" xValue="368.2281494140625" yValue="37345.53125"/>
+        <peak id="2.39" xValue="391.2835998535156" yValue="74521.3359375"/>
+        <peak id="2.40" xValue="392.28778076171875" yValue="22148.72265625"/>
+        <peak id="2.41" xValue="393.2220458984375" yValue="38720.796875"/>
+        <peak id="2.42" xValue="397.2902526855469" yValue="126535.3046875"/>
+        <peak id="2.43" xValue="409.18621826171875" yValue="569513.1875"/>
+        <peak id="2.44" xValue="410.1895751953125" yValue="129426.015625"/>
+        <peak id="2.45" xValue="411.1931457519531" yValue="18960.287109375"/>
+        <peak id="2.46" xValue="455.1226501464844" yValue="32726.212890625"/>
+        <peak id="2.47" xValue="465.1815490722656" yValue="19638.76953125"/>
+        <peak id="2.48" xValue="485.20208740234375" yValue="177475.203125"/>
+        <peak id="2.49" xValue="486.2055969238281" yValue="49037.34375"/>
+        <peak id="2.50" xValue="497.2121887207031" yValue="17874.7578125"/>
+        <peak id="2.51" xValue="513.2077026367188" yValue="33929.4140625"/>
+        <peak id="2.52" xValue="549.2066040039062" yValue="29976.7421875"/>
+        <peak id="2.53" xValue="597.21533203125" yValue="244370.25"/>
+        <peak id="2.54" xValue="615.1748046875" yValue="31546.31640625"/>
+        <peak id="2.55" xValue="639.2377319335938" yValue="46709.41796875"/>
+        <peak id="2.56" xValue="651.1839599609375" yValue="17544.171875"/>
+        <peak id="2.57" xValue="795.2388916015625" yValue="37568.671875"/>
+        <peak id="2.58" xValue="801.3030395507812" yValue="24006.5390625"/>
+        <peak id="2.59" xValue="809.335205078125" yValue="27532.197265625"/>
+      </peakList>
+    </spectrum>
+    <spectrum id="2" type="MS">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">0</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">positive</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="2"/>
+        <metadata dictRef="nmc:msLevel" content="1"/>
+        <metadata dictRef="nmc:rt" content="610.589"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="3"/>
+      </metadataList>
+      <peakList>
+        <peak id="3.1" xValue="185.12799072265625" yValue="17458.73828125"/>
+        <peak id="3.2" xValue="188.07040405273438" yValue="113936.578125" molRef="197"/>
+        <peak id="3.3" xValue="190.08177185058594" yValue="18871.16015625"/>
+        <peak id="3.4" xValue="192.07989501953125" yValue="28047.16796875"/>
+        <peak id="3.5" xValue="196.16932678222656" yValue="49689.6171875"/>
+        <peak id="3.6" xValue="197.09181213378906" yValue="78557.3046875"/>
+        <peak id="3.7" xValue="198.1849365234375" yValue="29238.173828125"/>
+        <peak id="3.8" xValue="205.09683227539062" yValue="3590729.5"/>
+        <peak id="3.9" xValue="206.10008239746094" yValue="448408.125"/>
+        <peak id="3.10" xValue="207.10427856445312" yValue="19168.7421875"/>
+        <peak id="3.11" xValue="217.10391235351562" yValue="20974.662109375"/>
+        <peak id="3.12" xValue="218.11328125" yValue="84326.9296875"/>
+        <peak id="3.13" xValue="220.1289825439453" yValue="129910.609375"/>
+        <peak id="3.14" xValue="230.07705688476562" yValue="52950.34375"/>
+        <peak id="3.15" xValue="236.12777709960938" yValue="34621.8984375"/>
+        <peak id="3.16" xValue="240.0975799560547" yValue="112320.9375"/>
+        <peak id="3.17" xValue="246.12339782714844" yValue="345592.15625"/>
+        <peak id="3.18" xValue="247.1269073486328" yValue="45447.2265625"/>
+        <peak id="3.19" xValue="256.20172119140625" yValue="43468.99609375"/>
+        <peak id="3.20" xValue="258.2173767089844" yValue="43507.88671875"/>
+        <peak id="3.21" xValue="265.1291198730469" yValue="1167580.25"/>
+        <peak id="3.22" xValue="266.13299560546875" yValue="136289.96875"/>
+        <peak id="3.23" xValue="268.05926513671875" yValue="42378.828125"/>
+        <peak id="3.24" xValue="274.1215515136719" yValue="38900.98046875"/>
+        <peak id="3.25" xValue="276.1803283691406" yValue="18552.8515625"/>
+        <peak id="3.26" xValue="277.1180419921875" yValue="19909.201171875"/>
+        <peak id="3.27" xValue="279.158935546875" yValue="30818.00390625"/>
+        <peak id="3.28" xValue="281.1129150390625" yValue="62114.3203125"/>
+        <peak id="3.29" xValue="284.0539245605469" yValue="34659.51953125"/>
+        <peak id="3.30" xValue="292.1539611816406" yValue="131356.84375"/>
+        <peak id="3.31" xValue="298.096435546875" yValue="242529.765625"/>
+        <peak id="3.32" xValue="299.1000671386719" yValue="28344.431640625"/>
+        <peak id="3.33" xValue="302.19610595703125" yValue="20879.83203125"/>
+        <peak id="3.34" xValue="304.17510986328125" yValue="284663.0625"/>
+        <peak id="3.35" xValue="305.17864990234375" yValue="37366.015625"/>
+        <peak id="3.36" xValue="318.15472412109375" yValue="33374.3671875"/>
+        <peak id="3.37" xValue="328.1376647949219" yValue="16387.984375"/>
+        <peak id="3.38" xValue="352.10198974609375" yValue="35524.23828125"/>
+        <peak id="3.39" xValue="354.28436279296875" yValue="343265.75"/>
+        <peak id="3.40" xValue="355.28778076171875" yValue="64199.17578125"/>
+        <peak id="3.41" xValue="358.128662109375" yValue="44058.5078125"/>
+        <peak id="3.42" xValue="362.170654296875" yValue="31302.09375"/>
+        <peak id="3.43" xValue="364.1864318847656" yValue="34136.30859375"/>
+        <peak id="3.44" xValue="376.1009521484375" yValue="17031.59765625"/>
+        <peak id="3.45" xValue="391.28369140625" yValue="76072.0625"/>
+        <peak id="3.46" xValue="392.28668212890625" yValue="15613.7646484375"/>
+        <peak id="3.47" xValue="393.2233581542969" yValue="30740.748046875"/>
+        <peak id="3.48" xValue="397.2904357910156" yValue="120766.2421875"/>
+        <peak id="3.49" xValue="398.29364013671875" yValue="22794.0"/>
+        <peak id="3.50" xValue="409.1862487792969" yValue="618334.1875"/>
+        <peak id="3.51" xValue="410.1896057128906" yValue="153693.28125"/>
+        <peak id="3.52" xValue="412.11602783203125" yValue="26403.142578125"/>
+        <peak id="3.53" xValue="425.2279357910156" yValue="18484.052734375"/>
+        <peak id="3.54" xValue="442.1579895019531" yValue="19395.64453125"/>
+        <peak id="3.55" xValue="455.1227111816406" yValue="76263.9921875"/>
+        <peak id="3.56" xValue="465.1814880371094" yValue="18851.12890625"/>
+        <peak id="3.57" xValue="485.2021789550781" yValue="124602.046875"/>
+        <peak id="3.58" xValue="486.205810546875" yValue="33510.00390625"/>
+        <peak id="3.59" xValue="497.2108459472656" yValue="30091.041015625"/>
+        <peak id="3.60" xValue="513.2072143554688" yValue="18587.54296875"/>
+        <peak id="3.61" xValue="546.176025390625" yValue="42892.046875"/>
+        <peak id="3.62" xValue="549.2066650390625" yValue="24799.5234375"/>
+        <peak id="3.63" xValue="595.2130737304688" yValue="20521.041015625"/>
+        <peak id="3.64" xValue="597.2176513671875" yValue="25828.861328125"/>
+        <peak id="3.65" xValue="599.1793212890625" yValue="150913.734375"/>
+        <peak id="3.66" xValue="600.1827392578125" yValue="53327.90234375"/>
+        <peak id="3.67" xValue="615.1737670898438" yValue="61828.2890625"/>
+        <peak id="3.68" xValue="616.17626953125" yValue="18224.689453125"/>
+        <peak id="3.69" xValue="639.2387084960938" yValue="36157.98046875"/>
+        <peak id="3.70" xValue="795.2369384765625" yValue="37109.5546875"/>
+        <peak id="3.71" xValue="809.3344116210938" yValue="18805.181640625"/>
+      </peakList>
+    </spectrum>
+    <spectrum id="3" type="MS">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">0</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">positive</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="3"/>
+        <metadata dictRef="nmc:msLevel" content="1"/>
+        <metadata dictRef="nmc:rt" content="612.132"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="4"/>
+      </metadataList>
+      <peakList>
+        <peak id="4.1" xValue="185.1281280517578" yValue="19807.658203125"/>
+        <peak id="4.2" xValue="186.52357482910156" yValue="4283.05029296875"/>
+        <peak id="4.3" xValue="188.07025146484375" yValue="93500.7265625" molRef="294"/>
+        <peak id="4.4" xValue="188.4618377685547" yValue="4397.82861328125"/>
+        <peak id="4.5" xValue="189.07435607910156" yValue="10221.7314453125"/>
+        <peak id="4.6" xValue="190.08155822753906" yValue="20790.5859375"/>
+        <peak id="4.7" xValue="190.69204711914062" yValue="5953.66357421875"/>
+        <peak id="4.8" xValue="192.08023071289062" yValue="24880.615234375"/>
+        <peak id="4.9" xValue="192.48220825195312" yValue="6507.5390625"/>
+        <peak id="4.10" xValue="194.15171813964844" yValue="7992.1279296875"/>
+        <peak id="4.11" xValue="196.16946411132812" yValue="41173.44140625"/>
+        <peak id="4.12" xValue="196.40721130371094" yValue="6658.5380859375"/>
+        <peak id="4.13" xValue="197.091796875" yValue="59437.88671875"/>
+        <peak id="4.14" xValue="198.18505859375" yValue="32319.12890625"/>
+        <peak id="4.15" xValue="198.47506713867188" yValue="10097.4072265625"/>
+        <peak id="4.16" xValue="198.73745727539062" yValue="6190.8515625"/>
+        <peak id="4.17" xValue="199.10752868652344" yValue="12672.787109375"/>
+        <peak id="4.18" xValue="199.5110626220703" yValue="14892.8759765625"/>
+        <peak id="4.19" xValue="200.18251037597656" yValue="6700.474609375"/>
+        <peak id="4.20" xValue="200.50148010253906" yValue="9816.1845703125"/>
+        <peak id="4.21" xValue="200.96095275878906" yValue="7311.0869140625"/>
+        <peak id="4.22" xValue="201.41796875" yValue="9739.0693359375"/>
+        <peak id="4.23" xValue="202.34701538085938" yValue="17555.001953125"/>
+        <peak id="4.24" xValue="203.33180236816406" yValue="7204.02197265625"/>
+        <peak id="4.25" xValue="203.53736877441406" yValue="11527.1962890625"/>
+        <peak id="4.26" xValue="204.4629669189453" yValue="24333.69140625"/>
+        <peak id="4.27" xValue="205.09683227539062" yValue="2980168.5"/>
+        <peak id="4.28" xValue="206.1000518798828" yValue="352226.25"/>
+        <peak id="4.29" xValue="208.2735137939453" yValue="8367.5703125"/>
+        <peak id="4.30" xValue="208.7161407470703" yValue="17598.013671875"/>
+        <peak id="4.31" xValue="209.06198120117188" yValue="10212.4130859375"/>
+        <peak id="4.32" xValue="210.05288696289062" yValue="24437.59375"/>
+        <peak id="4.33" xValue="210.95248413085938" yValue="4291.9716796875"/>
+        <peak id="4.34" xValue="212.14761352539062" yValue="13977.7685546875"/>
+        <peak id="4.35" xValue="213.05296325683594" yValue="13433.08203125"/>
+        <peak id="4.36" xValue="218.11322021484375" yValue="95913.3203125"/>
+        <peak id="4.37" xValue="219.11842346191406" yValue="6518.517578125"/>
+        <peak id="4.38" xValue="220.1289520263672" yValue="124100.578125"/>
+        <peak id="4.39" xValue="221.1328582763672" yValue="8689.0859375"/>
+        <peak id="4.40" xValue="225.05377197265625" yValue="27199.599609375"/>
+        <peak id="4.41" xValue="230.07693481445312" yValue="44897.875"/>
+        <peak id="4.42" xValue="236.12770080566406" yValue="21701.845703125"/>
+        <peak id="4.43" xValue="240.0975799560547" yValue="108449.0"/>
+        <peak id="4.44" xValue="241.09927368164062" yValue="9191.1611328125"/>
+        <peak id="4.45" xValue="246.12342834472656" yValue="279504.5"/>
+        <peak id="4.46" xValue="247.12672424316406" yValue="41842.73046875"/>
+        <peak id="4.47" xValue="255.0972442626953" yValue="10285.380859375"/>
+        <peak id="4.48" xValue="256.20166015625" yValue="52659.32421875"/>
+        <peak id="4.49" xValue="259.2197265625" yValue="6221.66455078125"/>
+        <peak id="4.50" xValue="265.12908935546875" yValue="892404.25"/>
+        <peak id="4.51" xValue="268.0594482421875" yValue="66621.6953125"/>
+        <peak id="4.52" xValue="274.12164306640625" yValue="43541.7421875"/>
+        <peak id="4.53" xValue="284.05413818359375" yValue="42798.18359375"/>
+        <peak id="4.54" xValue="292.1538391113281" yValue="168246.765625"/>
+        <peak id="4.55" xValue="298.0963439941406" yValue="442865.96875"/>
+        <peak id="4.56" xValue="299.10052490234375" yValue="42425.25"/>
+        <peak id="4.57" xValue="302.1590881347656" yValue="15546.8408203125"/>
+        <peak id="4.58" xValue="304.17510986328125" yValue="313758.78125"/>
+        <peak id="4.59" xValue="305.1783752441406" yValue="46922.30859375"/>
+        <peak id="4.60" xValue="318.15521240234375" yValue="26966.0859375"/>
+        <peak id="4.61" xValue="354.28436279296875" yValue="369377.59375"/>
+        <peak id="4.62" xValue="355.2876892089844" yValue="71232.578125"/>
+        <peak id="4.63" xValue="362.17041015625" yValue="34371.7265625"/>
+        <peak id="4.64" xValue="391.2833251953125" yValue="76758.484375"/>
+        <peak id="4.65" xValue="392.2879333496094" yValue="19816.837890625"/>
+        <peak id="4.66" xValue="393.2220153808594" yValue="25335.4140625"/>
+        <peak id="4.67" xValue="397.2903137207031" yValue="119025.9296875"/>
+        <peak id="4.68" xValue="402.11651611328125" yValue="13285.126953125"/>
+        <peak id="4.69" xValue="408.1492919921875" yValue="11010.24609375"/>
+        <peak id="4.70" xValue="409.1861267089844" yValue="423804.75"/>
+        <peak id="4.71" xValue="410.1895446777344" yValue="110718.2265625"/>
+        <peak id="4.72" xValue="412.1163024902344" yValue="30718.287109375"/>
+        <peak id="4.73" xValue="442.16015625" yValue="17071.48828125"/>
+        <peak id="4.74" xValue="455.1221618652344" yValue="79640.0078125"/>
+        <peak id="4.75" xValue="471.11810302734375" yValue="12044.1103515625"/>
+        <peak id="4.76" xValue="485.2025451660156" yValue="47633.35546875"/>
+        <peak id="4.77" xValue="497.2125244140625" yValue="24309.28515625"/>
+        <peak id="4.78" xValue="504.185546875" yValue="23488.78125"/>
+        <peak id="4.79" xValue="541.3508911132812" yValue="8576.4716796875"/>
+        <peak id="4.80" xValue="546.1755981445312" yValue="85271.4765625"/>
+        <peak id="4.81" xValue="595.2132568359375" yValue="13456.677734375"/>
+        <peak id="4.82" xValue="599.17919921875" yValue="148126.203125"/>
+        <peak id="4.83" xValue="600.183349609375" yValue="42561.3671875"/>
+        <peak id="4.84" xValue="601.1808471679688" yValue="12484.439453125"/>
+        <peak id="4.85" xValue="615.1749877929688" yValue="53643.3203125"/>
+        <peak id="4.86" xValue="616.1782836914062" yValue="15409.185546875"/>
+        <peak id="4.87" xValue="692.1823120117188" yValue="11071.5771484375"/>
+      </peakList>
+    </spectrum>
+    <spectrum id="4" type="MS">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">0</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">positive</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="4"/>
+        <metadata dictRef="nmc:msLevel" content="1"/>
+        <metadata dictRef="nmc:rt" content="613.819"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="5"/>
+      </metadataList>
+      <peakList>
+        <peak id="5.1" xValue="188.07028198242188" yValue="62652.9765625" molRef="451"/>
+        <peak id="5.2" xValue="189.07440185546875" yValue="4954.8154296875"/>
+        <peak id="5.3" xValue="190.0821075439453" yValue="26766.576171875"/>
+        <peak id="5.4" xValue="192.079833984375" yValue="32799.84375"/>
+        <peak id="5.5" xValue="193.0819854736328" yValue="5042.33154296875"/>
+        <peak id="5.6" xValue="194.15480041503906" yValue="7623.00830078125"/>
+        <peak id="5.7" xValue="195.71395874023438" yValue="6476.18603515625"/>
+        <peak id="5.8" xValue="196.16921997070312" yValue="62636.60546875"/>
+        <peak id="5.9" xValue="196.51016235351562" yValue="7984.84375"/>
+        <peak id="5.10" xValue="197.092041015625" yValue="42477.1953125"/>
+        <peak id="5.11" xValue="197.96759033203125" yValue="8617.177734375"/>
+        <peak id="5.12" xValue="198.1852569580078" yValue="32811.52734375"/>
+        <peak id="5.13" xValue="198.544677734375" yValue="6889.37255859375"/>
+        <peak id="5.14" xValue="199.10714721679688" yValue="19857.5625"/>
+        <peak id="5.15" xValue="200.63412475585938" yValue="7252.90087890625"/>
+        <peak id="5.16" xValue="201.32150268554688" yValue="10514.966796875"/>
+        <peak id="5.17" xValue="203.10275268554688" yValue="4971.84765625"/>
+        <peak id="5.18" xValue="204.1338653564453" yValue="11065.0361328125"/>
+        <peak id="5.19" xValue="205.0968475341797" yValue="2044229.0"/>
+        <peak id="5.20" xValue="206.1002197265625" yValue="241924.8125"/>
+        <peak id="5.21" xValue="210.1138153076172" yValue="6292.80615234375"/>
+        <peak id="5.22" xValue="211.12867736816406" yValue="13566.21484375"/>
+        <peak id="5.23" xValue="212.14996337890625" yValue="7640.7685546875"/>
+        <peak id="5.24" xValue="212.46759033203125" yValue="16537.716796875"/>
+        <peak id="5.25" xValue="213.0977325439453" yValue="15527.3828125"/>
+        <peak id="5.26" xValue="217.10398864746094" yValue="15930.1552734375"/>
+        <peak id="5.27" xValue="218.11329650878906" yValue="100262.9296875"/>
+        <peak id="5.28" xValue="219.1176300048828" yValue="7552.65478515625"/>
+        <peak id="5.29" xValue="220.12893676757812" yValue="105674.1015625"/>
+        <peak id="5.30" xValue="221.1322021484375" yValue="6012.4453125"/>
+        <peak id="5.31" xValue="225.05374145507812" yValue="34097.91015625"/>
+        <peak id="5.32" xValue="229.1541748046875" yValue="6784.50439453125"/>
+        <peak id="5.33" xValue="230.07699584960938" yValue="56280.75390625"/>
+        <peak id="5.34" xValue="231.11534118652344" yValue="11405.6845703125"/>
+        <peak id="5.35" xValue="234.1121368408203" yValue="10778.0"/>
+        <peak id="5.36" xValue="236.09141540527344" yValue="7320.498046875"/>
+        <peak id="5.37" xValue="240.09756469726562" yValue="119362.5859375"/>
+        <peak id="5.38" xValue="246.1234893798828" yValue="178564.671875"/>
+        <peak id="5.39" xValue="247.12693786621094" yValue="27557.51953125"/>
+        <peak id="5.40" xValue="255.0974884033203" yValue="11664.470703125"/>
+        <peak id="5.41" xValue="256.2017822265625" yValue="51871.08984375"/>
+        <peak id="5.42" xValue="257.20623779296875" yValue="8344.064453125"/>
+        <peak id="5.43" xValue="258.21728515625" yValue="49638.140625"/>
+        <peak id="5.44" xValue="262.1650390625" yValue="7886.14013671875"/>
+        <peak id="5.45" xValue="265.1291198730469" yValue="645719.8125"/>
+        <peak id="5.46" xValue="266.1329040527344" yValue="81880.921875"/>
+        <peak id="5.47" xValue="268.059326171875" yValue="97841.0390625"/>
+        <peak id="5.48" xValue="274.12158203125" yValue="47497.76953125"/>
+        <peak id="5.49" xValue="279.15875244140625" yValue="42388.21484375"/>
+        <peak id="5.50" xValue="284.054443359375" yValue="60523.1171875"/>
+        <peak id="5.51" xValue="285.1446838378906" yValue="13046.6083984375"/>
+        <peak id="5.52" xValue="286.1651916503906" yValue="9048.708984375"/>
+        <peak id="5.53" xValue="287.1601867675781" yValue="9658.4755859375"/>
+        <peak id="5.54" xValue="292.15399169921875" yValue="110768.625"/>
+        <peak id="5.55" xValue="293.1578063964844" yValue="13999.1513671875"/>
+        <peak id="5.56" xValue="298.09637451171875" yValue="314432.90625"/>
+        <peak id="5.57" xValue="302.1597595214844" yValue="13560.013671875"/>
+        <peak id="5.58" xValue="304.1751403808594" yValue="236550.375"/>
+        <peak id="5.59" xValue="305.1787109375" yValue="35054.65234375"/>
+        <peak id="5.60" xValue="315.1180725097656" yValue="18292.515625"/>
+        <peak id="5.61" xValue="330.0818176269531" yValue="23059.08984375"/>
+        <peak id="5.62" xValue="342.08599853515625" yValue="22993.84375"/>
+        <peak id="5.63" xValue="346.9912109375" yValue="8383.828125"/>
+        <peak id="5.64" xValue="353.0740966796875" yValue="4270.5029296875"/>
+        <peak id="5.65" xValue="354.28436279296875" yValue="432184.71875"/>
+        <peak id="5.66" xValue="355.28790283203125" yValue="77612.21875"/>
+        <peak id="5.67" xValue="362.1703186035156" yValue="19602.529296875"/>
+        <peak id="5.68" xValue="363.1729736328125" yValue="5139.40771484375"/>
+        <peak id="5.69" xValue="364.1866760253906" yValue="18833.240234375"/>
+        <peak id="5.70" xValue="368.155517578125" yValue="19194.41796875"/>
+        <peak id="5.71" xValue="370.1123046875" yValue="6549.41015625"/>
+        <peak id="5.72" xValue="380.1548767089844" yValue="11879.548828125"/>
+        <peak id="5.73" xValue="389.13079833984375" yValue="8485.95703125"/>
+        <peak id="5.74" xValue="391.2835693359375" yValue="91492.65625"/>
+        <peak id="5.75" xValue="392.28717041015625" yValue="22104.357421875"/>
+        <peak id="5.76" xValue="393.2224426269531" yValue="19636.939453125"/>
+        <peak id="5.77" xValue="397.2901916503906" yValue="128804.5078125"/>
+        <peak id="5.78" xValue="398.29400634765625" yValue="27216.140625"/>
+        <peak id="5.79" xValue="402.118896484375" yValue="16923.3828125"/>
+        <peak id="5.80" xValue="409.18634033203125" yValue="204917.734375"/>
+        <peak id="5.81" xValue="411.1938171386719" yValue="7029.17724609375"/>
+        <peak id="5.82" xValue="412.1165771484375" yValue="37640.23828125"/>
+        <peak id="5.83" xValue="418.1582946777344" yValue="5690.19482421875"/>
+        <peak id="5.84" xValue="428.1115417480469" yValue="18695.537109375"/>
+        <peak id="5.85" xValue="442.1608581542969" yValue="9793.0107421875"/>
+        <peak id="5.86" xValue="455.1225891113281" yValue="90831.46875"/>
+        <peak id="5.87" xValue="465.185546875" yValue="5878.74462890625"/>
+        <peak id="5.88" xValue="471.11822509765625" yValue="13827.0048828125"/>
+        <peak id="5.89" xValue="479.1651916503906" yValue="18289.57421875"/>
+        <peak id="5.90" xValue="485.20489501953125" yValue="8066.48681640625"/>
+        <peak id="5.91" xValue="504.1859130859375" yValue="30692.01171875"/>
+        <peak id="5.92" xValue="534.1712036132812" yValue="7936.076171875"/>
+        <peak id="5.93" xValue="546.1754150390625" yValue="45900.11328125"/>
+        <peak id="5.94" xValue="549.2071533203125" yValue="36312.7578125"/>
+        <peak id="5.95" xValue="595.3750610351562" yValue="8788.58203125"/>
+        <peak id="5.96" xValue="599.1793823242188" yValue="85103.8828125"/>
+        <peak id="5.97" xValue="615.1734619140625" yValue="31141.576171875"/>
+        <peak id="5.98" xValue="619.136962890625" yValue="13888.328125"/>
+      </peakList>
+    </spectrum>
+    <spectrum id="5" type="MS">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">0</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">positive</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="5"/>
+        <metadata dictRef="nmc:msLevel" content="1"/>
+        <metadata dictRef="nmc:rt" content="615.753"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="6"/>
+      </metadataList>
+      <peakList>
+        <peak id="6.1" xValue="185.12802124023438" yValue="16235.509765625"/>
+        <peak id="6.2" xValue="186.07571411132812" yValue="6453.8486328125"/>
+        <peak id="6.3" xValue="187.07107543945312" yValue="9989.2978515625"/>
+        <peak id="6.4" xValue="188.07028198242188" yValue="40256.0390625" molRef="588"/>
+        <peak id="6.5" xValue="189.07362365722656" yValue="4623.37939453125"/>
+        <peak id="6.6" xValue="190.0860595703125" yValue="39944.03125"/>
+        <peak id="6.7" xValue="191.79359436035156" yValue="4326.34912109375"/>
+        <peak id="6.8" xValue="192.0802459716797" yValue="26651.169921875"/>
+        <peak id="6.9" xValue="194.15370178222656" yValue="8673.279296875"/>
+        <peak id="6.10" xValue="196.16937255859375" yValue="55273.7421875"/>
+        <peak id="6.11" xValue="197.0918426513672" yValue="65912.9921875"/>
+        <peak id="6.12" xValue="198.18528747558594" yValue="37032.6953125"/>
+        <peak id="6.13" xValue="199.1074981689453" yValue="22373.3828125"/>
+        <peak id="6.14" xValue="200.8775634765625" yValue="9685.78515625"/>
+        <peak id="6.15" xValue="201.95152282714844" yValue="12843.3642578125"/>
+        <peak id="6.16" xValue="203.48272705078125" yValue="14675.44140625"/>
+        <peak id="6.17" xValue="205.09686279296875" yValue="1241782.875"/>
+        <peak id="6.18" xValue="206.10009765625" yValue="145200.078125"/>
+        <peak id="6.19" xValue="208.05819702148438" yValue="11186.095703125"/>
+        <peak id="6.20" xValue="208.3214111328125" yValue="6955.07666015625"/>
+        <peak id="6.21" xValue="210.11181640625" yValue="18710.875"/>
+        <peak id="6.22" xValue="211.1300506591797" yValue="16540.697265625"/>
+        <peak id="6.23" xValue="211.71485900878906" yValue="10507.720703125"/>
+        <peak id="6.24" xValue="213.09703063964844" yValue="17362.11328125"/>
+        <peak id="6.25" xValue="214.107177734375" yValue="32252.83984375"/>
+        <peak id="6.26" xValue="217.10389709472656" yValue="14417.8720703125"/>
+        <peak id="6.27" xValue="218.11318969726562" yValue="74386.765625"/>
+        <peak id="6.28" xValue="220.12893676757812" yValue="74442.34375"/>
+        <peak id="6.29" xValue="221.1321563720703" yValue="7099.1943359375"/>
+        <peak id="6.30" xValue="225.05389404296875" yValue="37282.60546875"/>
+        <peak id="6.31" xValue="227.13882446289062" yValue="9944.9853515625"/>
+        <peak id="6.32" xValue="230.0769805908203" yValue="53619.83984375"/>
+        <peak id="6.33" xValue="231.11611938476562" yValue="12560.951171875"/>
+        <peak id="6.34" xValue="232.1540069580078" yValue="28343.603515625"/>
+        <peak id="6.35" xValue="234.1331329345703" yValue="9776.9228515625"/>
+        <peak id="6.36" xValue="240.0976104736328" yValue="106221.0390625"/>
+        <peak id="6.37" xValue="241.11817932128906" yValue="30610.4609375"/>
+        <peak id="6.38" xValue="244.0924072265625" yValue="8566.92578125"/>
+        <peak id="6.39" xValue="246.1234130859375" yValue="95615.3125"/>
+        <peak id="6.40" xValue="247.12733459472656" yValue="13613.4873046875"/>
+        <peak id="6.41" xValue="252.0865936279297" yValue="11062.7880859375"/>
+        <peak id="6.42" xValue="255.1342315673828" yValue="10039.73828125"/>
+        <peak id="6.43" xValue="256.2015380859375" yValue="47544.296875"/>
+        <peak id="6.44" xValue="257.08770751953125" yValue="26696.46484375"/>
+        <peak id="6.45" xValue="258.2173156738281" yValue="41173.41796875"/>
+        <peak id="6.46" xValue="261.08953857421875" yValue="7750.7783203125"/>
+        <peak id="6.47" xValue="262.16534423828125" yValue="8205.1728515625"/>
+        <peak id="6.48" xValue="265.1291198730469" yValue="393617.1875"/>
+        <peak id="6.49" xValue="266.2323303222656" yValue="30330.66015625"/>
+        <peak id="6.50" xValue="268.0594177246094" yValue="112074.421875"/>
+        <peak id="6.51" xValue="271.1363525390625" yValue="6089.34130859375"/>
+        <peak id="6.52" xValue="274.1214599609375" yValue="51224.2421875"/>
+        <peak id="6.53" xValue="277.1181945800781" yValue="23259.373046875"/>
+        <peak id="6.54" xValue="279.15887451171875" yValue="31400.0546875"/>
+        <peak id="6.55" xValue="284.0544738769531" yValue="53249.8203125"/>
+        <peak id="6.56" xValue="285.14459228515625" yValue="25659.232421875"/>
+        <peak id="6.57" xValue="286.1386413574219" yValue="21326.8984375"/>
+        <peak id="6.58" xValue="289.09600830078125" yValue="15682.595703125"/>
+        <peak id="6.59" xValue="292.1536865234375" yValue="32117.83984375"/>
+        <peak id="6.60" xValue="293.15814208984375" yValue="4305.2392578125"/>
+        <peak id="6.61" xValue="296.148681640625" yValue="40399.234375"/>
+        <peak id="6.62" xValue="298.0962219238281" yValue="89567.7265625"/>
+        <peak id="6.63" xValue="304.17523193359375" yValue="115975.078125"/>
+        <peak id="6.64" xValue="305.1797180175781" yValue="11518.8125"/>
+        <peak id="6.65" xValue="311.0650634765625" yValue="21910.578125"/>
+        <peak id="6.66" xValue="315.117919921875" yValue="25352.8828125"/>
+        <peak id="6.67" xValue="318.15521240234375" yValue="11411.001953125"/>
+        <peak id="6.68" xValue="330.0816650390625" yValue="22786.158203125"/>
+        <peak id="6.69" xValue="337.25830078125" yValue="9151.5517578125"/>
+        <peak id="6.70" xValue="340.1170349121094" yValue="29337.92578125"/>
+        <peak id="6.71" xValue="342.0866394042969" yValue="6254.95361328125"/>
+        <peak id="6.72" xValue="344.993408203125" yValue="8147.85595703125"/>
+        <peak id="6.73" xValue="354.28436279296875" yValue="412805.6875"/>
+        <peak id="6.74" xValue="355.28790283203125" yValue="79671.2421875"/>
+        <peak id="6.75" xValue="356.1116943359375" yValue="20002.416015625"/>
+        <peak id="6.76" xValue="357.12908935546875" yValue="21310.931640625"/>
+        <peak id="6.77" xValue="368.15435791015625" yValue="11655.0263671875"/>
+        <peak id="6.78" xValue="373.1123352050781" yValue="9899.779296875"/>
+        <peak id="6.79" xValue="380.1557922363281" yValue="16793.443359375"/>
+        <peak id="6.80" xValue="391.28338623046875" yValue="88057.6484375"/>
+        <peak id="6.81" xValue="392.28692626953125" yValue="20686.470703125"/>
+        <peak id="6.82" xValue="393.22296142578125" yValue="20196.26953125"/>
+        <peak id="6.83" xValue="397.290283203125" yValue="121720.890625"/>
+        <peak id="6.84" xValue="399.1175537109375" yValue="30373.783203125"/>
+        <peak id="6.85" xValue="400.1224365234375" yValue="6410.044921875"/>
+        <peak id="6.86" xValue="405.1498107910156" yValue="89630.28125"/>
+        <peak id="6.87" xValue="406.153076171875" yValue="14908.1142578125"/>
+        <peak id="6.88" xValue="409.18646240234375" yValue="81918.3359375"/>
+        <peak id="6.89" xValue="410.1885986328125" yValue="20637.50390625"/>
+        <peak id="6.90" xValue="412.11639404296875" yValue="22754.349609375"/>
+        <peak id="6.91" xValue="418.1606750488281" yValue="6960.3037109375"/>
+        <peak id="6.92" xValue="428.1104431152344" yValue="11133.2490234375"/>
+        <peak id="6.93" xValue="432.0740051269531" yValue="9363.9365234375"/>
+        <peak id="6.94" xValue="445.1452331542969" yValue="29405.140625"/>
+        <peak id="6.95" xValue="455.1224060058594" yValue="67382.0"/>
+        <peak id="6.96" xValue="456.125732421875" yValue="9537.458984375"/>
+        <peak id="6.97" xValue="479.165283203125" yValue="28139.392578125"/>
+        <peak id="6.98" xValue="484.1753845214844" yValue="17509.921875"/>
+        <peak id="6.99" xValue="490.2300720214844" yValue="10361.2734375"/>
+        <peak id="6.100" xValue="493.22625732421875" yValue="8456.5068359375"/>
+        <peak id="6.101" xValue="504.1881408691406" yValue="11334.1103515625"/>
+        <peak id="6.102" xValue="549.20703125" yValue="48245.60546875"/>
+        <peak id="6.103" xValue="550.2114868164062" yValue="12673.19140625"/>
+        <peak id="6.104" xValue="599.1788330078125" yValue="35706.046875"/>
+        <peak id="6.105" xValue="619.13671875" yValue="10955.43359375"/>
+        <peak id="6.106" xValue="635.1988525390625" yValue="7263.4189453125"/>
+      </peakList>
+    </spectrum>
+    <spectrum id="6" type="MS">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">188.07</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:collisionEnergy" dataType="xsd:string">30.0</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">positive</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="6"/>
+        <metadata dictRef="nmc:msLevel" content="2"/>
+        <metadata dictRef="nmc:rt" content="607.567"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="1"/>
+      </metadataList>
+      <peakList>
+        <peak id="7" xValue="146.05992126464844" yValue="664785.9375" molRef="2"/>
+        <peak id="8" xValue="188.07037353515625" yValue="101309.4296875"/>
+        <peak id="9" xValue="144.0806427001953" yValue="60555.36328125" molRef="4"/>
+        <peak id="10" xValue="170.05992126464844" yValue="22581.171875" molRef="5"/>
+        <peak id="11" xValue="160.07559204101562" yValue="4842.73974609375" molRef="6"/>
+        <peak id="12" xValue="142.06497192382812" yValue="3256.98583984375" molRef="7"/>
+      </peakList>
+    </spectrum>
+    <spectrum id="7" type="MS">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">146.05992126464844</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:collisionEnergy" dataType="xsd:string">30.0</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">positive</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="7"/>
+        <metadata dictRef="nmc:msLevel" content="3"/>
+        <metadata dictRef="nmc:rt" content="608.482"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="1"/>
+      </metadataList>
+      <peakList>
+        <peak id="13" xValue="146.05990600585938" yValue="662204.5625"/>
+        <peak id="14" xValue="118.06504821777344" yValue="57918.3828125" molRef="9"/>
+      </peakList>
+    </spectrum>
+    <spectrum id="8" type="MS">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">188.07</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:collisionEnergy" dataType="xsd:string">30.0</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">positive</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="8"/>
+        <metadata dictRef="nmc:msLevel" content="2"/>
+        <metadata dictRef="nmc:rt" content="609.403"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="2"/>
+      </metadataList>
+      <peakList>
+        <peak id="15" xValue="146.05990600585938" yValue="1142253.25" molRef="113"/>
+        <peak id="16" xValue="188.0703582763672" yValue="126612.421875"/>
+        <peak id="17" xValue="144.0806121826172" yValue="105104.4296875" molRef="115"/>
+        <peak id="18" xValue="170.05987548828125" yValue="39702.11328125" molRef="116"/>
+        <peak id="19" xValue="160.07545471191406" yValue="7943.4326171875" molRef="117"/>
+        <peak id="20" xValue="142.0650634765625" yValue="4802.56884765625" molRef="118"/>
+      </peakList>
+    </spectrum>
+    <spectrum id="9" type="MS">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">146.05990600585938</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:collisionEnergy" dataType="xsd:string">30.0</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">positive</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="9"/>
+        <metadata dictRef="nmc:msLevel" content="3"/>
+        <metadata dictRef="nmc:rt" content="610.118"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="2"/>
+      </metadataList>
+      <peakList>
+        <peak id="21" xValue="146.05992126464844" yValue="641746.25"/>
+        <peak id="22" xValue="118.0650405883789" yValue="85454.9765625" molRef="120"/>
+      </peakList>
+    </spectrum>
+    <spectrum id="10" type="MS">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">188.07</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:collisionEnergy" dataType="xsd:string">30.0</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">positive</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="10"/>
+        <metadata dictRef="nmc:msLevel" content="2"/>
+        <metadata dictRef="nmc:rt" content="610.898"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="3"/>
+      </metadataList>
+      <peakList>
+        <peak id="23" xValue="146.05990600585938" yValue="1099727.625" molRef="198"/>
+        <peak id="24" xValue="188.0703887939453" yValue="136057.265625"/>
+        <peak id="25" xValue="144.08062744140625" yValue="101669.5859375" molRef="200"/>
+        <peak id="26" xValue="170.05987548828125" yValue="37155.03125" molRef="201"/>
+        <peak id="27" xValue="160.07553100585938" yValue="6651.109375" molRef="202"/>
+        <peak id="28" xValue="142.0648193359375" yValue="4844.61279296875" molRef="203"/>
+      </peakList>
+    </spectrum>
+    <spectrum id="11" type="MS">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">146.05990600585938</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:collisionEnergy" dataType="xsd:string">30.0</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">positive</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="11"/>
+        <metadata dictRef="nmc:msLevel" content="3"/>
+        <metadata dictRef="nmc:rt" content="611.625"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="3"/>
+      </metadataList>
+      <peakList>
+        <peak id="29" xValue="146.0599365234375" yValue="592440.3125"/>
+        <peak id="30" xValue="118.06503295898438" yValue="76749.203125" molRef="205"/>
+      </peakList>
+    </spectrum>
+    <spectrum id="12" type="MS">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">188.07</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:collisionEnergy" dataType="xsd:string">30.0</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">positive</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="12"/>
+        <metadata dictRef="nmc:msLevel" content="2"/>
+        <metadata dictRef="nmc:rt" content="612.438"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="4"/>
+      </metadataList>
+      <peakList>
+        <peak id="31" xValue="146.05990600585938" yValue="874430.25" molRef="295"/>
+        <peak id="32" xValue="188.07037353515625" yValue="113791.1953125"/>
+        <peak id="33" xValue="144.0806121826172" yValue="84559.90625" molRef="297"/>
+        <peak id="34" xValue="170.05990600585938" yValue="26470.3203125" molRef="298"/>
+        <peak id="35" xValue="207.94363403320312" yValue="10149.6826171875"/>
+        <peak id="36" xValue="202.191162109375" yValue="6052.8046875"/>
+        <peak id="37" xValue="160.07540893554688" yValue="4949.701171875" molRef="301"/>
+        <peak id="38" xValue="196.6945343017578" yValue="3871.535400390625"/>
+        <peak id="39" xValue="195.56643676757812" yValue="3858.401611328125"/>
+        <peak id="40" xValue="199.03567504882812" yValue="3558.54443359375"/>
+        <peak id="41" xValue="194.3788604736328" yValue="3507.101318359375"/>
+        <peak id="42" xValue="142.06494140625" yValue="3349.72216796875" molRef="306"/>
+        <peak id="43" xValue="197.04513549804688" yValue="3057.108154296875"/>
+        <peak id="44" xValue="194.73695373535156" yValue="2705.6748046875"/>
+        <peak id="45" xValue="213.44081115722656" yValue="2489.430908203125"/>
+        <peak id="46" xValue="190.49560546875" yValue="2376.81201171875"/>
+        <peak id="47" xValue="196.47784423828125" yValue="2220.43115234375"/>
+        <peak id="48" xValue="185.45555114746094" yValue="1625.1552734375"/>
+        <peak id="49" xValue="192.61090087890625" yValue="1578.250244140625"/>
+        <peak id="50" xValue="197.86708068847656" yValue="1518.9281005859375"/>
+        <peak id="51" xValue="59.4617805480957" yValue="1117.2303466796875"/>
+      </peakList>
+    </spectrum>
+    <spectrum id="13" type="MS">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">146.05990600585938</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:collisionEnergy" dataType="xsd:string">30.0</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">positive</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="13"/>
+        <metadata dictRef="nmc:msLevel" content="3"/>
+        <metadata dictRef="nmc:rt" content="613.248"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="4"/>
+      </metadataList>
+      <peakList>
+        <peak id="52" xValue="146.0599365234375" yValue="394070.0625"/>
+        <peak id="53" xValue="118.06502532958984" yValue="59528.8984375" molRef="317"/>
+      </peakList>
+    </spectrum>
+    <spectrum id="14" type="MS">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">188.07</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:collisionEnergy" dataType="xsd:string">30.0</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">positive</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="14"/>
+        <metadata dictRef="nmc:msLevel" content="2"/>
+        <metadata dictRef="nmc:rt" content="614.149"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="5"/>
+      </metadataList>
+      <peakList>
+        <peak id="54" xValue="146.05990600585938" yValue="617470.4375" molRef="452"/>
+        <peak id="55" xValue="188.0703582763672" yValue="69680.109375"/>
+        <peak id="56" xValue="144.0806121826172" yValue="56275.83203125" molRef="454"/>
+        <peak id="57" xValue="170.05992126464844" yValue="21699.865234375" molRef="455"/>
+        <peak id="58" xValue="142.1588592529297" yValue="8899.39453125"/>
+        <peak id="59" xValue="208.1630096435547" yValue="5885.62060546875"/>
+        <peak id="60" xValue="203.25616455078125" yValue="5132.61669921875"/>
+        <peak id="61" xValue="197.0095977783203" yValue="1699.485107421875"/>
+        <peak id="62" xValue="191.7017822265625" yValue="1319.39990234375"/>
+        <peak id="63" xValue="185.9031524658203" yValue="1079.0277099609375"/>
+      </peakList>
+    </spectrum>
+    <spectrum id="15" type="MS">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">146.05990600585938</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:collisionEnergy" dataType="xsd:string">30.0</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">positive</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="15"/>
+        <metadata dictRef="nmc:msLevel" content="3"/>
+        <metadata dictRef="nmc:rt" content="615.058"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="5"/>
+      </metadataList>
+      <peakList>
+        <peak id="64" xValue="146.05992126464844" yValue="173089.140625"/>
+        <peak id="65" xValue="118.06504821777344" yValue="40430.22265625" molRef="463"/>
+      </peakList>
+    </spectrum>
+    <spectrum id="16" type="MS">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">188.07</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:collisionEnergy" dataType="xsd:string">30.0</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">positive</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="16"/>
+        <metadata dictRef="nmc:msLevel" content="2"/>
+        <metadata dictRef="nmc:rt" content="616.105"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="6"/>
+      </metadataList>
+      <peakList>
+        <peak id="66" xValue="146.0598907470703" yValue="342090.5625" molRef="589"/>
+        <peak id="67" xValue="144.08062744140625" yValue="33600.91796875" molRef="590"/>
+        <peak id="68" xValue="170.0598602294922" yValue="11030.9326171875" molRef="591"/>
+        <peak id="69" xValue="142.15884399414062" yValue="9979.7607421875"/>
+        <peak id="70" xValue="188.07032775878906" yValue="4614.0029296875"/>
+      </peakList>
+    </spectrum>
+    <spectrum id="17" type="MS">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">146.0598907470703</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:collisionEnergy" dataType="xsd:string">30.0</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">positive</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="17"/>
+        <metadata dictRef="nmc:msLevel" content="3"/>
+        <metadata dictRef="nmc:rt" content="617.104"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="6"/>
+      </metadataList>
+      <peakList>
+        <peak id="71" xValue="118.06503295898438" yValue="25613.951171875" molRef="594"/>
+        <peak id="72" xValue="146.0598602294922" yValue="9436.119140625"/>
+      </peakList>
+    </spectrum>
+  </spectrumList>
+  <moleculeList convention="cdk:moleculeSet" xmlns="http://www.xml-cml.org/schema">
+    <molecule id="1">
+      <formula concise="C 11 H 10 O 2 N 1">
+        <atomArray elementType="C H O N" count="11.0 10.0 2.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">1.0</scalar>
+    </molecule>
+    <molecule id="2">
+      <formula concise="C 9 H 8 O 1 N 1">
+        <atomArray elementType="C H O N" count="9.0 8.0 1.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">1.0</scalar>
+    </molecule>
+    <molecule id="2Loss">
+      <formula concise="C 2 H 2 O 1">
+        <atomArray elementType="C H O" count="2.0 2.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="9">
+      <formula concise="C 8 H 8 N 1">
+        <atomArray elementType="C H N" count="8.0 8.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">1.0</scalar>
+    </molecule>
+    <molecule id="9Loss">
+      <formula concise="C 1 O 1">
+        <atomArray elementType="C O" count="1.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="4">
+      <formula concise="C 10 H 10 N 1">
+        <atomArray elementType="C H N" count="10.0 10.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">1.0</scalar>
+    </molecule>
+    <molecule id="4Loss">
+      <formula concise="C 1 O 2">
+        <atomArray elementType="C O" count="1.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="5">
+      <formula concise="C 11 H 8 O 1 N 1">
+        <atomArray elementType="C H O N" count="11.0 8.0 1.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">1.0</scalar>
+    </molecule>
+    <molecule id="5Loss">
+      <formula concise="H 2 O 1">
+        <atomArray elementType="H O" count="2.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="6">
+      <formula concise="C 10 H 10 O 1 N 1">
+        <atomArray elementType="C H O N" count="10.0 10.0 1.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">1.0</scalar>
+    </molecule>
+    <molecule id="6Loss">
+      <formula concise="C 1 O 1">
+        <atomArray elementType="C O" count="1.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="7">
+      <formula concise="C 10 H 8 N 1">
+        <atomArray elementType="C H N" count="10.0 8.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">1.0</scalar>
+    </molecule>
+    <molecule id="7Loss">
+      <formula concise="C 1 H 2 O 2">
+        <atomArray elementType="C H O" count="1.0 2.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="112">
+      <formula concise="C 11 H 10 O 2 N 1">
+        <atomArray elementType="C H O N" count="11.0 10.0 2.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">1.0</scalar>
+    </molecule>
+    <molecule id="113">
+      <formula concise="C 9 H 8 O 1 N 1">
+        <atomArray elementType="C H O N" count="9.0 8.0 1.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">1.0</scalar>
+    </molecule>
+    <molecule id="113Loss">
+      <formula concise="C 2 H 2 O 1">
+        <atomArray elementType="C H O" count="2.0 2.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="120">
+      <formula concise="C 8 H 8 N 1">
+        <atomArray elementType="C H N" count="8.0 8.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">1.0</scalar>
+    </molecule>
+    <molecule id="120Loss">
+      <formula concise="C 1 O 1">
+        <atomArray elementType="C O" count="1.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="115">
+      <formula concise="C 10 H 10 N 1">
+        <atomArray elementType="C H N" count="10.0 10.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">1.0</scalar>
+    </molecule>
+    <molecule id="115Loss">
+      <formula concise="C 1 O 2">
+        <atomArray elementType="C O" count="1.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="116">
+      <formula concise="C 11 H 8 O 1 N 1">
+        <atomArray elementType="C H O N" count="11.0 8.0 1.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">1.0</scalar>
+    </molecule>
+    <molecule id="116Loss">
+      <formula concise="H 2 O 1">
+        <atomArray elementType="H O" count="2.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="117">
+      <formula concise="C 10 H 10 O 1 N 1">
+        <atomArray elementType="C H O N" count="10.0 10.0 1.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">1.0</scalar>
+    </molecule>
+    <molecule id="117Loss">
+      <formula concise="C 1 O 1">
+        <atomArray elementType="C O" count="1.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="118">
+      <formula concise="C 10 H 8 N 1">
+        <atomArray elementType="C H N" count="10.0 8.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">1.0</scalar>
+    </molecule>
+    <molecule id="118Loss">
+      <formula concise="C 1 H 2 O 2">
+        <atomArray elementType="C H O" count="1.0 2.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="197">
+      <formula concise="C 11 H 10 O 2 N 1">
+        <atomArray elementType="C H O N" count="11.0 10.0 2.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">1.0</scalar>
+    </molecule>
+    <molecule id="198">
+      <formula concise="C 9 H 8 O 1 N 1">
+        <atomArray elementType="C H O N" count="9.0 8.0 1.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">1.0</scalar>
+    </molecule>
+    <molecule id="198Loss">
+      <formula concise="C 2 H 2 O 1">
+        <atomArray elementType="C H O" count="2.0 2.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="205">
+      <formula concise="C 8 H 8 N 1">
+        <atomArray elementType="C H N" count="8.0 8.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">1.0</scalar>
+    </molecule>
+    <molecule id="205Loss">
+      <formula concise="C 1 O 1">
+        <atomArray elementType="C O" count="1.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="200">
+      <formula concise="C 10 H 10 N 1">
+        <atomArray elementType="C H N" count="10.0 10.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">1.0</scalar>
+    </molecule>
+    <molecule id="200Loss">
+      <formula concise="C 1 O 2">
+        <atomArray elementType="C O" count="1.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="201">
+      <formula concise="C 11 H 8 O 1 N 1">
+        <atomArray elementType="C H O N" count="11.0 8.0 1.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">1.0</scalar>
+    </molecule>
+    <molecule id="201Loss">
+      <formula concise="H 2 O 1">
+        <atomArray elementType="H O" count="2.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="202">
+      <formula concise="C 10 H 10 O 1 N 1">
+        <atomArray elementType="C H O N" count="10.0 10.0 1.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">1.0</scalar>
+    </molecule>
+    <molecule id="202Loss">
+      <formula concise="C 1 O 1">
+        <atomArray elementType="C O" count="1.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="203">
+      <formula concise="C 10 H 8 N 1">
+        <atomArray elementType="C H N" count="10.0 8.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">1.0</scalar>
+    </molecule>
+    <molecule id="203Loss">
+      <formula concise="C 1 H 2 O 2">
+        <atomArray elementType="C H O" count="1.0 2.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="294">
+      <formula concise="C 11 H 10 O 2 N 1">
+        <atomArray elementType="C H O N" count="11.0 10.0 2.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">1.0</scalar>
+    </molecule>
+    <molecule id="295">
+      <formula concise="C 9 H 8 O 1 N 1">
+        <atomArray elementType="C H O N" count="9.0 8.0 1.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">1.0</scalar>
+    </molecule>
+    <molecule id="295Loss">
+      <formula concise="C 2 H 2 O 1">
+        <atomArray elementType="C H O" count="2.0 2.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="317">
+      <formula concise="C 8 H 8 N 1">
+        <atomArray elementType="C H N" count="8.0 8.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">1.0</scalar>
+    </molecule>
+    <molecule id="317Loss">
+      <formula concise="C 1 O 1">
+        <atomArray elementType="C O" count="1.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="297">
+      <formula concise="C 10 H 10 N 1">
+        <atomArray elementType="C H N" count="10.0 10.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">1.0</scalar>
+    </molecule>
+    <molecule id="297Loss">
+      <formula concise="C 1 O 2">
+        <atomArray elementType="C O" count="1.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="298">
+      <formula concise="C 11 H 8 O 1 N 1">
+        <atomArray elementType="C H O N" count="11.0 8.0 1.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">1.0</scalar>
+    </molecule>
+    <molecule id="298Loss">
+      <formula concise="H 2 O 1">
+        <atomArray elementType="H O" count="2.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="301">
+      <formula concise="C 10 H 10 O 1 N 1">
+        <atomArray elementType="C H O N" count="10.0 10.0 1.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">1.0</scalar>
+    </molecule>
+    <molecule id="301Loss">
+      <formula concise="C 1 O 1">
+        <atomArray elementType="C O" count="1.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="306">
+      <formula concise="C 10 H 8 N 1">
+        <atomArray elementType="C H N" count="10.0 8.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">1.0</scalar>
+    </molecule>
+    <molecule id="306Loss">
+      <formula concise="C 1 H 2 O 2">
+        <atomArray elementType="C H O" count="1.0 2.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="451">
+      <formula concise="C 11 H 10 O 2 N 1">
+        <atomArray elementType="C H O N" count="11.0 10.0 2.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">1.0</scalar>
+    </molecule>
+    <molecule id="452">
+      <formula concise="C 9 H 8 O 1 N 1">
+        <atomArray elementType="C H O N" count="9.0 8.0 1.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">1.0</scalar>
+    </molecule>
+    <molecule id="452Loss">
+      <formula concise="C 2 H 2 O 1">
+        <atomArray elementType="C H O" count="2.0 2.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="463">
+      <formula concise="C 8 H 8 N 1">
+        <atomArray elementType="C H N" count="8.0 8.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">1.0</scalar>
+    </molecule>
+    <molecule id="463Loss">
+      <formula concise="C 1 O 1">
+        <atomArray elementType="C O" count="1.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="454">
+      <formula concise="C 10 H 10 N 1">
+        <atomArray elementType="C H N" count="10.0 10.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">1.0</scalar>
+    </molecule>
+    <molecule id="454Loss">
+      <formula concise="C 1 O 2">
+        <atomArray elementType="C O" count="1.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="455">
+      <formula concise="C 11 H 8 O 1 N 1">
+        <atomArray elementType="C H O N" count="11.0 8.0 1.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">1.0</scalar>
+    </molecule>
+    <molecule id="455Loss">
+      <formula concise="H 2 O 1">
+        <atomArray elementType="H O" count="2.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="588">
+      <formula concise="C 11 H 10 O 2 N 1">
+        <atomArray elementType="C H O N" count="11.0 10.0 2.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">1.0</scalar>
+    </molecule>
+    <molecule id="589">
+      <formula concise="C 9 H 8 O 1 N 1">
+        <atomArray elementType="C H O N" count="9.0 8.0 1.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">1.0</scalar>
+    </molecule>
+    <molecule id="589Loss">
+      <formula concise="C 2 H 2 O 1">
+        <atomArray elementType="C H O" count="2.0 2.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="594">
+      <formula concise="C 8 H 8 N 1">
+        <atomArray elementType="C H N" count="8.0 8.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">1.0</scalar>
+    </molecule>
+    <molecule id="594Loss">
+      <formula concise="C 1 O 1">
+        <atomArray elementType="C O" count="1.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="590">
+      <formula concise="C 10 H 10 N 1">
+        <atomArray elementType="C H N" count="10.0 10.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">1.0</scalar>
+    </molecule>
+    <molecule id="590Loss">
+      <formula concise="C 1 O 2">
+        <atomArray elementType="C O" count="1.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="591">
+      <formula concise="C 11 H 8 O 1 N 1">
+        <atomArray elementType="C H O N" count="11.0 8.0 1.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">1.0</scalar>
+    </molecule>
+    <molecule id="591Loss">
+      <formula concise="H 2 O 1">
+        <atomArray elementType="H O" count="2.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+  </moleculeList>
+  <reactionScheme xmlns="http://www.xml-cml.org/schema">
+    <reactionScheme id="rs1">
+      <reaction id="react63">
+        <reactantList>
+          <reactant>
+            <molecule ref="1"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="4"/>
+          </product>
+          <product>
+            <molecule ref="4Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+      <reaction id="react64">
+        <reactantList>
+          <reactant>
+            <molecule ref="1"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="5"/>
+          </product>
+          <product>
+            <molecule ref="5Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+      <reaction id="react65">
+        <reactantList>
+          <reactant>
+            <molecule ref="1"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="6"/>
+          </product>
+          <product>
+            <molecule ref="6Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+      <reaction id="react66">
+        <reactantList>
+          <reactant>
+            <molecule ref="1"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="7"/>
+          </product>
+          <product>
+            <molecule ref="7Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+      <reactionScheme id="rs2">
+        <reaction id="react1">
+          <reactantList>
+            <reactant>
+              <molecule ref="1"/>
+            </reactant>
+          </reactantList>
+          <productList>
+            <product>
+              <molecule ref="2"/>
+            </product>
+            <product>
+              <molecule ref="2Loss"/>
+            </product>
+          </productList>
+          <substanceList/>
+        </reaction>
+        <reaction id="react11">
+          <reactantList>
+            <reactant>
+              <molecule ref="2"/>
+            </reactant>
+          </reactantList>
+          <productList>
+            <product>
+              <molecule ref="9"/>
+            </product>
+            <product>
+              <molecule ref="9Loss"/>
+            </product>
+          </productList>
+          <substanceList/>
+        </reaction>
+      </reactionScheme>
+    </reactionScheme>
+    <reactionScheme id="rs68">
+      <reaction id="react129">
+        <reactantList>
+          <reactant>
+            <molecule ref="112"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="115"/>
+          </product>
+          <product>
+            <molecule ref="115Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+      <reaction id="react130">
+        <reactantList>
+          <reactant>
+            <molecule ref="112"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="116"/>
+          </product>
+          <product>
+            <molecule ref="116Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+      <reaction id="react131">
+        <reactantList>
+          <reactant>
+            <molecule ref="112"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="117"/>
+          </product>
+          <product>
+            <molecule ref="117Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+      <reaction id="react132">
+        <reactantList>
+          <reactant>
+            <molecule ref="112"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="118"/>
+          </product>
+          <product>
+            <molecule ref="118Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+      <reactionScheme id="rs69">
+        <reaction id="react67">
+          <reactantList>
+            <reactant>
+              <molecule ref="112"/>
+            </reactant>
+          </reactantList>
+          <productList>
+            <product>
+              <molecule ref="113"/>
+            </product>
+            <product>
+              <molecule ref="113Loss"/>
+            </product>
+          </productList>
+          <substanceList/>
+        </reaction>
+        <reaction id="react77">
+          <reactantList>
+            <reactant>
+              <molecule ref="113"/>
+            </reactant>
+          </reactantList>
+          <productList>
+            <product>
+              <molecule ref="120"/>
+            </product>
+            <product>
+              <molecule ref="120Loss"/>
+            </product>
+          </productList>
+          <substanceList/>
+        </reaction>
+      </reactionScheme>
+    </reactionScheme>
+    <reactionScheme id="rs135">
+      <reaction id="react195">
+        <reactantList>
+          <reactant>
+            <molecule ref="197"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="200"/>
+          </product>
+          <product>
+            <molecule ref="200Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+      <reaction id="react196">
+        <reactantList>
+          <reactant>
+            <molecule ref="197"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="201"/>
+          </product>
+          <product>
+            <molecule ref="201Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+      <reaction id="react197">
+        <reactantList>
+          <reactant>
+            <molecule ref="197"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="202"/>
+          </product>
+          <product>
+            <molecule ref="202Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+      <reaction id="react198">
+        <reactantList>
+          <reactant>
+            <molecule ref="197"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="203"/>
+          </product>
+          <product>
+            <molecule ref="203Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+      <reactionScheme id="rs136">
+        <reaction id="react133">
+          <reactantList>
+            <reactant>
+              <molecule ref="197"/>
+            </reactant>
+          </reactantList>
+          <productList>
+            <product>
+              <molecule ref="198"/>
+            </product>
+            <product>
+              <molecule ref="198Loss"/>
+            </product>
+          </productList>
+          <substanceList/>
+        </reaction>
+        <reaction id="react143">
+          <reactantList>
+            <reactant>
+              <molecule ref="198"/>
+            </reactant>
+          </reactantList>
+          <productList>
+            <product>
+              <molecule ref="205"/>
+            </product>
+            <product>
+              <molecule ref="205Loss"/>
+            </product>
+          </productList>
+          <substanceList/>
+        </reaction>
+      </reactionScheme>
+    </reactionScheme>
+    <reactionScheme id="rs202">
+      <reaction id="react336">
+        <reactantList>
+          <reactant>
+            <molecule ref="294"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="297"/>
+          </product>
+          <product>
+            <molecule ref="297Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+      <reaction id="react337">
+        <reactantList>
+          <reactant>
+            <molecule ref="294"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="298"/>
+          </product>
+          <product>
+            <molecule ref="298Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+      <reaction id="react340">
+        <reactantList>
+          <reactant>
+            <molecule ref="294"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="301"/>
+          </product>
+          <product>
+            <molecule ref="301Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+      <reaction id="react345">
+        <reactantList>
+          <reactant>
+            <molecule ref="294"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="306"/>
+          </product>
+          <product>
+            <molecule ref="306Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+      <reactionScheme id="rs203">
+        <reaction id="react199">
+          <reactantList>
+            <reactant>
+              <molecule ref="294"/>
+            </reactant>
+          </reactantList>
+          <productList>
+            <product>
+              <molecule ref="295"/>
+            </product>
+            <product>
+              <molecule ref="295Loss"/>
+            </product>
+          </productList>
+          <substanceList/>
+        </reaction>
+        <reaction id="react209">
+          <reactantList>
+            <reactant>
+              <molecule ref="295"/>
+            </reactant>
+          </reactantList>
+          <productList>
+            <product>
+              <molecule ref="317"/>
+            </product>
+            <product>
+              <molecule ref="317Loss"/>
+            </product>
+          </productList>
+          <substanceList/>
+        </reaction>
+      </reactionScheme>
+    </reactionScheme>
+    <reactionScheme id="rs359">
+      <reaction id="react437">
+        <reactantList>
+          <reactant>
+            <molecule ref="451"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="454"/>
+          </product>
+          <product>
+            <molecule ref="454Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+      <reaction id="react438">
+        <reactantList>
+          <reactant>
+            <molecule ref="451"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="455"/>
+          </product>
+          <product>
+            <molecule ref="455Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+      <reactionScheme id="rs360">
+        <reaction id="react355">
+          <reactantList>
+            <reactant>
+              <molecule ref="451"/>
+            </reactant>
+          </reactantList>
+          <productList>
+            <product>
+              <molecule ref="452"/>
+            </product>
+            <product>
+              <molecule ref="452Loss"/>
+            </product>
+          </productList>
+          <substanceList/>
+        </reaction>
+        <reaction id="react365">
+          <reactantList>
+            <reactant>
+              <molecule ref="452"/>
+            </reactant>
+          </reactantList>
+          <productList>
+            <product>
+              <molecule ref="463"/>
+            </product>
+            <product>
+              <molecule ref="463Loss"/>
+            </product>
+          </productList>
+          <substanceList/>
+        </reaction>
+      </reactionScheme>
+    </reactionScheme>
+    <reactionScheme id="rs450">
+      <reaction id="react456">
+        <reactantList>
+          <reactant>
+            <molecule ref="588"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="590"/>
+          </product>
+          <product>
+            <molecule ref="590Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+      <reaction id="react457">
+        <reactantList>
+          <reactant>
+            <molecule ref="588"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="591"/>
+          </product>
+          <product>
+            <molecule ref="591Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+      <reactionScheme id="rs451">
+        <reaction id="react445">
+          <reactantList>
+            <reactant>
+              <molecule ref="588"/>
+            </reactant>
+          </reactantList>
+          <productList>
+            <product>
+              <molecule ref="589"/>
+            </product>
+            <product>
+              <molecule ref="589Loss"/>
+            </product>
+          </productList>
+          <substanceList/>
+        </reaction>
+        <reaction id="react446">
+          <reactantList>
+            <reactant>
+              <molecule ref="589"/>
+            </reactant>
+          </reactantList>
+          <productList>
+            <product>
+              <molecule ref="594"/>
+            </product>
+            <product>
+              <molecule ref="594Loss"/>
+            </product>
+          </productList>
+          <substanceList/>
+        </reaction>
+      </reactionScheme>
+    </reactionScheme>
+  </reactionScheme>
+</cml>

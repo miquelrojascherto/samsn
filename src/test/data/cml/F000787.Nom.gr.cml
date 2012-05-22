@@ -1,0 +1,777 @@
+<cml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <spectrumList xmlns="http://www.xml-cml.org/schema">
+    <metadataList>
+      <metadata dictRef="nmc:numGroups" content="1"/>
+    </metadataList>
+    <spectrum id="1" type="MS">
+      <metadataList>
+        <metadata dictRef="nmc:msLevel" content="1"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="1"/>
+        <metadata dictRef="nmc:scanNum" content="1"/>
+      </metadataList>
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">0</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+      </conditionList>
+      <peakList>
+        <peak id="peak1" xValue="507.11480712890625" yValue="8265414.0"/>
+      </peakList>
+    </spectrum>
+    <spectrum id="2" type="MS">
+      <metadataList>
+        <metadata dictRef="nmc:msLevel" content="2"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="1"/>
+        <metadata dictRef="nmc:scanNum" content="2"/>
+      </metadataList>
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">507</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+      </conditionList>
+      <peakList>
+        <peak id="peak2" xValue="151.00381469726562" yValue="30718.625"/>
+        <peak id="peak3" xValue="234.053466796875" yValue="32344.833984375"/>
+        <peak id="peak4" xValue="273.04052734375" yValue="75652.375"/>
+        <peak id="peak5" xValue="301.03546142578125" yValue="105903.96875"/>
+        <peak id="peak6" xValue="303.0511779785156" yValue="32857.76953125"/>
+        <peak id="peak7" xValue="316.0589904785156" yValue="104019.40625"/>
+        <peak id="peak8" xValue="329.0302734375" yValue="150706.59375"/>
+        <peak id="peak9" xValue="330.0381164550781" yValue="135126.46875"/>
+        <peak id="peak10" xValue="343.0459289550781" yValue="50124.70703125"/>
+        <peak id="peak11" xValue="344.0538330078125" yValue="2750465.5"/>
+        <peak id="peak12" xValue="345.0614929199219" yValue="1930693.25"/>
+        <peak id="peak13" xValue="359.0770568847656" yValue="88967.109375"/>
+        <peak id="peak14" xValue="387.0720520019531" yValue="534169.625"/>
+        <peak id="peak15" xValue="417.08258056640625" yValue="76127.6953125"/>
+        <peak id="peak16" xValue="479.11956787109375" yValue="231970.265625"/>
+      </peakList>
+    </spectrum>
+    <spectrum id="3" type="MS">
+      <metadataList>
+        <metadata dictRef="nmc:msLevel" content="3"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="1"/>
+        <metadata dictRef="nmc:scanNum" content="3"/>
+      </metadataList>
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">329</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">2</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+      </conditionList>
+      <peakList>
+        <peak id="peak17" xValue="270.01678466796875" yValue="16170.28125"/>
+        <peak id="peak18" xValue="285.0402526855469" yValue="8785.5625"/>
+        <peak id="peak19" xValue="286.0116882324219" yValue="37717.578125"/>
+        <peak id="peak20" xValue="301.03515625" yValue="116143.7578125"/>
+        <peak id="peak21" xValue="313.0351257324219" yValue="8046.84033203125"/>
+        <peak id="peak22" xValue="315.0142822265625" yValue="126706.5234375"/>
+      </peakList>
+    </spectrum>
+    <spectrum id="4" type="MS">
+      <metadataList>
+        <metadata dictRef="nmc:msLevel" content="4"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="1"/>
+        <metadata dictRef="nmc:scanNum" content="4"/>
+      </metadataList>
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">301</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">3</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+      </conditionList>
+      <peakList>
+        <peak id="peak23" xValue="199.0678253173828" yValue="2855.23486328125"/>
+        <peak id="peak24" xValue="286.01171875" yValue="78195.2109375"/>
+      </peakList>
+    </spectrum>
+    <spectrum id="5" type="MS">
+      <metadataList>
+        <metadata dictRef="nmc:msLevel" content="5"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="1"/>
+        <metadata dictRef="nmc:scanNum" content="5"/>
+      </metadataList>
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">286</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">4</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+      </conditionList>
+      <peakList>
+        <peak id="peak25" xValue="199.07113647460938" yValue="2118.429931640625"/>
+        <peak id="peak26" xValue="230.02197265625" yValue="23267.083984375"/>
+        <peak id="peak27" xValue="258.0168151855469" yValue="36207.81640625"/>
+      </peakList>
+    </spectrum>
+    <spectrum id="6" type="MS">
+      <metadataList>
+        <metadata dictRef="nmc:msLevel" content="4"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="1"/>
+        <metadata dictRef="nmc:scanNum" content="6"/>
+      </metadataList>
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">315</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">3</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+      </conditionList>
+      <peakList>
+        <peak id="peak28" xValue="243.02993774414062" yValue="7104.50439453125"/>
+        <peak id="peak29" xValue="271.0246276855469" yValue="25923.35546875"/>
+        <peak id="peak30" xValue="287.01953125" yValue="56140.9296875"/>
+        <peak id="peak31" xValue="299.0196228027344" yValue="29678.822265625"/>
+      </peakList>
+    </spectrum>
+    <spectrum id="7" type="MS">
+      <metadataList>
+        <metadata dictRef="nmc:msLevel" content="5"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="1"/>
+        <metadata dictRef="nmc:scanNum" content="7"/>
+      </metadataList>
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">287</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">6</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+      </conditionList>
+      <peakList>
+        <peak id="peak32" xValue="195.8679962158203" yValue="1188.1201171875"/>
+        <peak id="peak33" xValue="203.0347442626953" yValue="5062.9462890625"/>
+        <peak id="peak34" xValue="231.02981567382812" yValue="3000.46044921875"/>
+        <peak id="peak35" xValue="259.024658203125" yValue="16586.251953125"/>
+      </peakList>
+    </spectrum>
+    <spectrum id="8" type="MS">
+      <metadataList>
+        <metadata dictRef="nmc:msLevel" content="3"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="1"/>
+        <metadata dictRef="nmc:scanNum" content="8"/>
+      </metadataList>
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">344</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">2</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+      </conditionList>
+      <peakList>
+        <peak id="peak36" xValue="269.00909423828125" yValue="34106.06640625"/>
+        <peak id="peak37" xValue="273.04042053222656" yValue="529944.984375"/>
+        <peak id="peak38" xValue="287.0559844970703" yValue="76142.3125"/>
+        <peak id="peak39" xValue="301.0353088378906" yValue="730576.96875"/>
+        <peak id="peak40" xValue="315.0509948730469" yValue="143494.578125"/>
+        <peak id="peak41" xValue="316.0587615966797" yValue="737002.25"/>
+        <peak id="peak42" xValue="317.06646728515625" yValue="60701.98046875"/>
+        <peak id="peak43" xValue="328.0224304199219" yValue="35029.0859375"/>
+        <peak id="peak44" xValue="329.0300598144531" yValue="721412.4375"/>
+        <peak id="peak45" xValue="330.03778076171875" yValue="1670120.625"/>
+      </peakList>
+    </spectrum>
+    <spectrum id="9" type="MS">
+      <metadataList>
+        <metadata dictRef="nmc:msLevel" content="4"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="1"/>
+        <metadata dictRef="nmc:scanNum" content="9"/>
+      </metadataList>
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">273</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">8</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+      </conditionList>
+      <peakList>
+        <peak id="peak46" xValue="242.02198028564453" yValue="162666.734375"/>
+        <peak id="peak47" xValue="258.01683044433594" yValue="222801.8671875"/>
+      </peakList>
+    </spectrum>
+    <spectrum id="10" type="MS">
+      <metadataList>
+        <metadata dictRef="nmc:msLevel" content="5"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="1"/>
+        <metadata dictRef="nmc:scanNum" content="10"/>
+      </metadataList>
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">242</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">9</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+      </conditionList>
+      <peakList>
+        <peak id="peak48" xValue="131.50013732910156" yValue="1949.9107666015625"/>
+        <peak id="peak49" xValue="199.04004669189453" yValue="8580.39306640625"/>
+        <peak id="peak50" xValue="201.01931762695312" yValue="3535.0985107421875"/>
+        <peak id="peak51" xValue="213.01924896240234" yValue="70207.69921875"/>
+        <peak id="peak52" xValue="241.0140838623047" yValue="4867.050537109375"/>
+      </peakList>
+    </spectrum>
+    <spectrum id="11" type="MS">
+      <metadataList>
+        <metadata dictRef="nmc:msLevel" content="5"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="1"/>
+        <metadata dictRef="nmc:scanNum" content="11"/>
+      </metadataList>
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">258</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">9</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+      </conditionList>
+      <peakList>
+        <peak id="peak53" xValue="174.0322036743164" yValue="22740.9755859375"/>
+        <peak id="peak54" xValue="202.0271224975586" yValue="35839.880859375"/>
+        <peak id="peak55" xValue="230.02196502685547" yValue="18263.943359375"/>
+        <peak id="peak56" xValue="241.01419067382812" yValue="13216.8798828125"/>
+      </peakList>
+    </spectrum>
+    <spectrum id="12" type="MS">
+      <metadataList>
+        <metadata dictRef="nmc:msLevel" content="4"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="1"/>
+        <metadata dictRef="nmc:scanNum" content="12"/>
+      </metadataList>
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">301</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">8</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+      </conditionList>
+      <peakList>
+        <peak id="peak57" xValue="241.0140609741211" yValue="38002.169921875"/>
+        <peak id="peak58" xValue="257.04542541503906" yValue="13795.6357421875"/>
+        <peak id="peak59" xValue="269.0088806152344" yValue="313693.03125"/>
+        <peak id="peak60" xValue="271.0245056152344" yValue="75184.1796875"/>
+        <peak id="peak61" xValue="273.04022216796875" yValue="9444.1181640625"/>
+        <peak id="peak62" xValue="286.0115966796875" yValue="199912.328125"/>
+      </peakList>
+    </spectrum>
+    <spectrum id="13" type="MS">
+      <metadataList>
+        <metadata dictRef="nmc:msLevel" content="5"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="1"/>
+        <metadata dictRef="nmc:scanNum" content="13"/>
+      </metadataList>
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">241</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">12</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+      </conditionList>
+      <peakList>
+        <peak id="peak63" xValue="213.0192108154297" yValue="69164.890625"/>
+      </peakList>
+    </spectrum>
+    <spectrum id="14" type="MS">
+      <metadataList>
+        <metadata dictRef="nmc:msLevel" content="5"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="1"/>
+        <metadata dictRef="nmc:scanNum" content="14"/>
+      </metadataList>
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">269</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">12</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+      </conditionList>
+      <peakList>
+        <peak id="peak64" xValue="197.0242156982422" yValue="4886.47314453125"/>
+        <peak id="peak65" xValue="213.01939392089844" yValue="5958.78271484375"/>
+        <peak id="peak66" xValue="225.01922607421875" yValue="7873.02001953125"/>
+        <peak id="peak67" xValue="241.01412200927734" yValue="236000.5234375"/>
+      </peakList>
+    </spectrum>
+    <spectrum id="15" type="MS">
+      <metadataList>
+        <metadata dictRef="nmc:msLevel" content="5"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="1"/>
+        <metadata dictRef="nmc:scanNum" content="15"/>
+      </metadataList>
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">286</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">12</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+      </conditionList>
+      <peakList>
+        <peak id="peak68" xValue="202.02709197998047" yValue="6693.712646484375"/>
+        <peak id="peak69" xValue="230.02197265625" yValue="19513.7109375"/>
+        <peak id="peak70" xValue="242.0219497680664" yValue="7145.71728515625"/>
+        <peak id="peak71" xValue="258.0168151855469" yValue="119594.0390625"/>
+      </peakList>
+    </spectrum>
+    <spectrum id="16" type="MS">
+      <metadataList>
+        <metadata dictRef="nmc:msLevel" content="4"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="1"/>
+        <metadata dictRef="nmc:scanNum" content="16"/>
+      </metadataList>
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">316</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">8</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+      </conditionList>
+      <peakList>
+        <peak id="peak72" xValue="243.02978515625" yValue="16656.138671875"/>
+        <peak id="peak73" xValue="259.0246276855469" yValue="15445.98046875"/>
+        <peak id="peak74" xValue="271.0245666503906" yValue="25673.94921875"/>
+        <peak id="peak75" xValue="273.04029846191406" yValue="245259.734375"/>
+        <peak id="peak76" xValue="287.0195007324219" yValue="67683.138671875"/>
+        <peak id="peak77" xValue="300.02732849121094" yValue="182345.9453125"/>
+        <peak id="peak78" xValue="301.03514099121094" yValue="443417.984375"/>
+        <peak id="peak79" xValue="302.0430908203125" yValue="11906.236328125"/>
+      </peakList>
+    </spectrum>
+    <spectrum id="17" type="MS">
+      <metadataList>
+        <metadata dictRef="nmc:msLevel" content="5"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="1"/>
+        <metadata dictRef="nmc:scanNum" content="17"/>
+      </metadataList>
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">273</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">16</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+      </conditionList>
+      <peakList>
+        <peak id="peak80" xValue="241.0141143798828" yValue="58720.13671875"/>
+        <peak id="peak81" xValue="242.02197774251303" yValue="58949.423177083336"/>
+        <peak id="peak82" xValue="258.01666259765625" yValue="44370.08984375"/>
+      </peakList>
+    </spectrum>
+    <spectrum id="18" type="MS">
+      <metadataList>
+        <metadata dictRef="nmc:msLevel" content="5"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="1"/>
+        <metadata dictRef="nmc:scanNum" content="18"/>
+      </metadataList>
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">300</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">16</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+      </conditionList>
+      <peakList>
+        <peak id="peak83" xValue="241.013916015625" yValue="6721.3134765625"/>
+        <peak id="peak84" xValue="269.0089111328125" yValue="57635.62109375"/>
+        <peak id="peak85" xValue="282.0170593261719" yValue="4294.20068359375"/>
+        <peak id="peak86" xValue="286.0116271972656" yValue="56824.96484375"/>
+      </peakList>
+    </spectrum>
+    <spectrum id="19" type="MS">
+      <metadataList>
+        <metadata dictRef="nmc:msLevel" content="5"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="1"/>
+        <metadata dictRef="nmc:scanNum" content="19"/>
+      </metadataList>
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">301</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">16</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+      </conditionList>
+      <peakList>
+        <peak id="peak87" xValue="241.01406860351562" yValue="18246.6943359375"/>
+        <peak id="peak88" xValue="257.0454406738281" yValue="5646.091796875"/>
+        <peak id="peak89" xValue="269.0088806152344" yValue="145694.46875"/>
+        <peak id="peak90" xValue="271.0245361328125" yValue="72434.0390625"/>
+        <peak id="peak91" xValue="282.0166320800781" yValue="7798.05126953125"/>
+        <peak id="peak92" xValue="285.0038146972656" yValue="26189.298828125"/>
+        <peak id="peak93" xValue="286.01158142089844" yValue="110081.34765625"/>
+        <peak id="peak94" xValue="299.0194854736328" yValue="30424.9326171875"/>
+      </peakList>
+    </spectrum>
+    <spectrum id="20" type="MS">
+      <metadataList>
+        <metadata dictRef="nmc:msLevel" content="4"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="1"/>
+        <metadata dictRef="nmc:scanNum" content="20"/>
+      </metadataList>
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">329</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">8</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+      </conditionList>
+      <peakList>
+        <peak id="peak95" xValue="242.0218505859375" yValue="9617.349609375"/>
+        <peak id="peak96" xValue="270.016845703125" yValue="49073.60546875"/>
+        <peak id="peak97" xValue="273.0403137207031" yValue="10994.9892578125"/>
+        <peak id="peak98" xValue="286.0116729736328" yValue="84580.1015625"/>
+        <peak id="peak99" xValue="297.00390625" yValue="13742.5205078125"/>
+        <peak id="peak100" xValue="299.01959228515625" yValue="36630.4609375"/>
+        <peak id="peak101" xValue="301.0351867675781" yValue="268710.8359375"/>
+        <peak id="peak102" xValue="314.00653076171875" yValue="96979.71875"/>
+        <peak id="peak103" xValue="315.0143127441406" yValue="884422.0625"/>
+      </peakList>
+    </spectrum>
+    <spectrum id="21" type="MS">
+      <metadataList>
+        <metadata dictRef="nmc:msLevel" content="5"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="1"/>
+        <metadata dictRef="nmc:scanNum" content="21"/>
+      </metadataList>
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">270</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">20</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+      </conditionList>
+      <peakList>
+        <peak id="peak104" xValue="213.01910400390625" yValue="6121.603515625"/>
+        <peak id="peak105" xValue="225.0193634033203" yValue="7869.53857421875"/>
+        <peak id="peak106" xValue="241.0140838623047" yValue="245634.984375"/>
+        <peak id="peak107" xValue="242.02191162109375" yValue="90029.3359375"/>
+        <peak id="peak108" xValue="269.0089416503906" yValue="12935.4267578125"/>
+      </peakList>
+    </spectrum>
+    <spectrum id="22" type="MS">
+      <metadataList>
+        <metadata dictRef="nmc:msLevel" content="5"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="1"/>
+        <metadata dictRef="nmc:scanNum" content="22"/>
+      </metadataList>
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">301</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">20</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+      </conditionList>
+      <peakList>
+        <peak id="peak109" xValue="257.00921630859375" yValue="9394.8916015625"/>
+        <peak id="peak110" xValue="258.0169372558594" yValue="5249.662760416667"/>
+        <peak id="peak111" xValue="273.04022216796875" yValue="7591.284830729167"/>
+        <peak id="peak112" xValue="286.0116271972656" yValue="220488.75"/>
+        <peak id="peak113" xValue="287.0197448730469" yValue="4916.4581298828125"/>
+      </peakList>
+    </spectrum>
+    <spectrum id="23" type="MS">
+      <metadataList>
+        <metadata dictRef="nmc:msLevel" content="5"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="1"/>
+        <metadata dictRef="nmc:scanNum" content="23"/>
+      </metadataList>
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">314</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">20</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+      </conditionList>
+      <peakList>
+        <peak id="peak114" xValue="243.0298309326172" yValue="50549.546875"/>
+        <peak id="peak115" xValue="259.024658203125" yValue="65084.421875"/>
+        <peak id="peak116" xValue="271.0246276855469" yValue="129176.4765625"/>
+        <peak id="peak117" xValue="286.0117492675781" yValue="72441.9375"/>
+        <peak id="peak118" xValue="287.01953125" yValue="352713.125"/>
+        <peak id="peak119" xValue="297.00396728515625" yValue="17262.443359375"/>
+      </peakList>
+    </spectrum>
+    <spectrum id="24" type="MS">
+      <metadataList>
+        <metadata dictRef="nmc:msLevel" content="5"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="1"/>
+        <metadata dictRef="nmc:scanNum" content="24"/>
+      </metadataList>
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">315</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">20</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+      </conditionList>
+      <peakList>
+        <peak id="peak120" xValue="243.0297393798828" yValue="60130.703125"/>
+        <peak id="peak121" xValue="259.02459716796875" yValue="78439.578125"/>
+        <peak id="peak122" xValue="271.0245666503906" yValue="176664.640625"/>
+        <peak id="peak123" xValue="286.01165771484375" yValue="71977.171875"/>
+        <peak id="peak124" xValue="287.0194396972656" yValue="407688.1875"/>
+        <peak id="peak125" xValue="297.0037536621094" yValue="18805.380859375"/>
+      </peakList>
+    </spectrum>
+    <spectrum id="25" type="MS">
+      <metadataList>
+        <metadata dictRef="nmc:msLevel" content="4"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="1"/>
+        <metadata dictRef="nmc:scanNum" content="25"/>
+      </metadataList>
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">330</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">8</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+      </conditionList>
+      <peakList>
+        <peak id="peak126" xValue="270.016845703125" yValue="53615.97265625"/>
+        <peak id="peak127" xValue="286.01165771484375" yValue="86762.5859375"/>
+        <peak id="peak128" xValue="299.01959228515625" yValue="36392.21875"/>
+        <peak id="peak129" xValue="301.0351867675781" yValue="300916.25"/>
+        <peak id="peak130" xValue="314.00653076171875" yValue="92122.84375"/>
+        <peak id="peak131" xValue="315.0142822265625" yValue="1481577.625"/>
+      </peakList>
+    </spectrum>
+    <spectrum id="26" type="MS">
+      <metadataList>
+        <metadata dictRef="nmc:msLevel" content="5"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="1"/>
+        <metadata dictRef="nmc:scanNum" content="26"/>
+      </metadataList>
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">270</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">25</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+      </conditionList>
+      <peakList>
+        <peak id="peak132" xValue="197.02432250976562" yValue="4447.15576171875"/>
+        <peak id="peak133" xValue="225.01922607421875" yValue="7050.232421875"/>
+        <peak id="peak134" xValue="241.01414489746094" yValue="237765.421875"/>
+        <peak id="peak135" xValue="242.02197265625" yValue="86979.921875"/>
+        <peak id="peak136" xValue="269.00885009765625" yValue="13067.109375"/>
+      </peakList>
+    </spectrum>
+    <spectrum id="27" type="MS">
+      <metadataList>
+        <metadata dictRef="nmc:msLevel" content="5"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="1"/>
+        <metadata dictRef="nmc:scanNum" content="27"/>
+      </metadataList>
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">301</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">25</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+      </conditionList>
+      <peakList>
+        <peak id="peak137" xValue="258.01708984375" yValue="5352.43115234375"/>
+        <peak id="peak138" xValue="271.02471923828125" yValue="9631.302734375"/>
+        <peak id="peak139" xValue="285.0401611328125" yValue="9199.89453125"/>
+        <peak id="peak140" xValue="286.01171875" yValue="240877.3125"/>
+        <peak id="peak141" xValue="287.019775390625" yValue="13238.5205078125"/>
+      </peakList>
+    </spectrum>
+    <spectrum id="28" type="MS">
+      <metadataList>
+        <metadata dictRef="nmc:msLevel" content="5"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="1"/>
+        <metadata dictRef="nmc:scanNum" content="28"/>
+      </metadataList>
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">314</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">25</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+      </conditionList>
+      <peakList>
+        <peak id="peak142" xValue="215.03489685058594" yValue="12865.7392578125"/>
+        <peak id="peak143" xValue="231.0296630859375" yValue="15027.7724609375"/>
+        <peak id="peak144" xValue="243.0298309326172" yValue="89225.7578125"/>
+        <peak id="peak145" xValue="258.016845703125" yValue="10528.5634765625"/>
+        <peak id="peak146" xValue="259.024658203125" yValue="114494.765625"/>
+        <peak id="peak147" xValue="271.024658203125" yValue="223887.578125"/>
+        <peak id="peak148" xValue="286.0116882324219" yValue="68578.5546875"/>
+        <peak id="peak149" xValue="287.0195007324219" yValue="620499.5625"/>
+        <peak id="peak150" xValue="297.0037841796875" yValue="32689.50390625"/>
+      </peakList>
+    </spectrum>
+    <spectrum id="29" type="MS">
+      <metadataList>
+        <metadata dictRef="nmc:msLevel" content="5"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="1"/>
+        <metadata dictRef="nmc:scanNum" content="29"/>
+      </metadataList>
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">315</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">25</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+      </conditionList>
+      <peakList>
+        <peak id="peak151" xValue="215.03489685058594" yValue="14500.6982421875"/>
+        <peak id="peak152" xValue="231.0296630859375" yValue="17763.103515625"/>
+        <peak id="peak153" xValue="243.02975463867188" yValue="103545.9453125"/>
+        <peak id="peak154" xValue="259.0245666503906" yValue="135262.546875"/>
+        <peak id="peak155" xValue="271.0245666503906" yValue="301231.75"/>
+        <peak id="peak156" xValue="286.01165771484375" yValue="69437.9453125"/>
+        <peak id="peak157" xValue="287.0194091796875" yValue="708759.6875"/>
+        <peak id="peak158" xValue="297.0037841796875" yValue="36005.69921875"/>
+      </peakList>
+    </spectrum>
+    <spectrum id="30" type="MS">
+      <metadataList>
+        <metadata dictRef="nmc:msLevel" content="3"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="1"/>
+        <metadata dictRef="nmc:scanNum" content="30"/>
+      </metadataList>
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">387</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">2</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+      </conditionList>
+      <peakList>
+        <peak id="peak159" xValue="161.0244903564453" yValue="4994.525390625"/>
+        <peak id="peak160" xValue="165.0192413330078" yValue="9090.587890625"/>
+        <peak id="peak161" xValue="193.01405334472656" yValue="16562.341796875"/>
+        <peak id="peak162" xValue="300.06317138671875" yValue="7277.42919921875"/>
+        <peak id="peak163" xValue="315.0869140625" yValue="37214.86328125"/>
+        <peak id="peak164" xValue="328.0582580566406" yValue="6660.0263671875"/>
+        <peak id="peak165" xValue="329.0302734375" yValue="5920.283203125"/>
+        <peak id="peak166" xValue="344.05328369140625" yValue="105286.4921875"/>
+        <peak id="peak167" xValue="357.02471923828125" yValue="5316.38525390625"/>
+        <peak id="peak168" xValue="359.0766296386719" yValue="116417.3203125"/>
+        <peak id="peak169" xValue="372.0480651855469" yValue="111688.3125"/>
+      </peakList>
+    </spectrum>
+    <spectrum id="31" type="MS">
+      <metadataList>
+        <metadata dictRef="nmc:msLevel" content="4"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="1"/>
+        <metadata dictRef="nmc:scanNum" content="31"/>
+      </metadataList>
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">344</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">30</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+      </conditionList>
+      <peakList>
+        <peak id="peak170" xValue="165.01931762695312" yValue="3391.160400390625"/>
+        <peak id="peak171" xValue="192.00613403320312" yValue="4416.5849609375"/>
+        <peak id="peak172" xValue="329.0299377441406" yValue="53543.84375"/>
+      </peakList>
+    </spectrum>
+    <spectrum id="32" type="MS">
+      <metadataList>
+        <metadata dictRef="nmc:msLevel" content="5"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="1"/>
+        <metadata dictRef="nmc:scanNum" content="32"/>
+      </metadataList>
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">329</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">31</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+      </conditionList>
+      <peakList>
+        <peak id="peak173" xValue="131.50526428222656" yValue="2031.375"/>
+        <peak id="peak174" xValue="273.0405578613281" yValue="2751.716552734375"/>
+        <peak id="peak175" xValue="301.03521728515625" yValue="23451.267578125"/>
+      </peakList>
+    </spectrum>
+    <spectrum id="33" type="MS">
+      <metadataList>
+        <metadata dictRef="nmc:msLevel" content="4"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="1"/>
+        <metadata dictRef="nmc:scanNum" content="33"/>
+      </metadataList>
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">359</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">30</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+      </conditionList>
+      <peakList>
+        <peak id="peak176" xValue="192.00621032714844" yValue="2211.404296875"/>
+        <peak id="peak177" xValue="315.0875549316406" yValue="3856.49853515625"/>
+        <peak id="peak178" xValue="331.0819396972656" yValue="16373.8583984375"/>
+        <peak id="peak179" xValue="344.0533142089844" yValue="56177.3984375"/>
+      </peakList>
+    </spectrum>
+    <spectrum id="34" type="MS">
+      <metadataList>
+        <metadata dictRef="nmc:msLevel" content="5"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="1"/>
+        <metadata dictRef="nmc:scanNum" content="34"/>
+      </metadataList>
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">344</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">33</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+      </conditionList>
+      <peakList>
+        <peak id="peak180" xValue="131.50177001953125" yValue="1498.3902587890625"/>
+        <peak id="peak181" xValue="192.00633239746094" yValue="11825.9697265625"/>
+        <peak id="peak182" xValue="205.0140380859375" yValue="3273.16015625"/>
+        <peak id="peak183" xValue="329.02996826171875" yValue="13790.146484375"/>
+      </peakList>
+    </spectrum>
+    <spectrum id="35" type="MS">
+      <metadataList>
+        <metadata dictRef="nmc:msLevel" content="4"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="1"/>
+        <metadata dictRef="nmc:scanNum" content="35"/>
+      </metadataList>
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">372</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">30</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+      </conditionList>
+      <peakList>
+        <peak id="peak184" xValue="329.0299072265625" yValue="7476.20947265625"/>
+        <peak id="peak185" xValue="344.05352783203125" yValue="32809.1875"/>
+        <peak id="peak186" xValue="357.0247497558594" yValue="40184.109375"/>
+      </peakList>
+    </spectrum>
+    <spectrum id="36" type="MS">
+      <metadataList>
+        <metadata dictRef="nmc:msLevel" content="3"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="1"/>
+        <metadata dictRef="nmc:scanNum" content="36"/>
+      </metadataList>
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">479</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">2</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+      </conditionList>
+      <peakList>
+        <peak id="peak187" xValue="131.500732421875" yValue="3301.6787109375"/>
+        <peak id="peak188" xValue="301.03515625" yValue="48003.25"/>
+        <peak id="peak189" xValue="314.0435791015625" yValue="4480.76123046875"/>
+        <peak id="peak190" xValue="316.05877685546875" yValue="17612.5625"/>
+        <peak id="peak191" xValue="329.0662841796875" yValue="20150.095703125"/>
+        <peak id="peak192" xValue="341.0664367675781" yValue="2710.098876953125"/>
+        <peak id="peak193" xValue="359.07684326171875" yValue="28814.611328125"/>
+      </peakList>
+    </spectrum>
+  </spectrumList>
+  <moleculeList convention="cdk:moleculeSet" xmlns="http://www.xml-cml.org/schema"/>
+  <reactionScheme xmlns="http://www.xml-cml.org/schema"/>
+</cml>

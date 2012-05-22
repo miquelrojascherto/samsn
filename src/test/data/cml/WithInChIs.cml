@@ -1,0 +1,3526 @@
+<cml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <spectrumList xmlns="http://www.xml-cml.org/schema">
+    <metadataList>
+      <metadata dictRef="nmc:countScans" content="47"/>
+      <metadata dictRef="nmc:numGroups" content="4"/>
+      <metadata dictRef="nmc:parentFile" convention="mzXMLData" content="F000792.mzXML"/>
+      <metadata dictRef="nmc:mzgap" content="0.5"/>
+      <metadata dictRef="nmc:snthresh" content="1.0"/>
+      <metadata dictRef="nmc:rint" content="0.0"/>
+      <metadata dictRef="nmc:SAMSversion" content="0.142-6-ga9fdbec"/>
+      <metadata dictRef="nmc:accuracy" content="15,15,15,15,15"/>
+      <metadata dictRef="nmc:rules" content="RDBER"/>
+      <metadata dictRef="nmc:elements" content="C15..15,O4..4,H9..9"/>
+      <metadata dictRef="nmc:parentCompounds" content="InChI=1S/C15H10O4/c16-10-7-5-9(6-8-10)15-14(18)13(17)11-3-1-2-4-12(11)19-15/h1-8,16,18H"/>
+    </metadataList>
+    <spectrum type="MS" id="1">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">0</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="1"/>
+        <metadata dictRef="nmc:msLevel" content="1"/>
+        <metadata dictRef="nmc:rt" content="30.2503"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="1"/>
+      </metadataList>
+      <peakList>
+        <peak id="1.1" xValue="248.96044921875" yValue="229397.46875"/>
+        <peak id="1.2" xValue="249.35951232910156" yValue="13982.2880859375"/>
+        <peak id="1.3" xValue="251.63644409179688" yValue="11599.150390625"/>
+        <peak id="1.4" xValue="252.0425567626953" yValue="67645.03125"/>
+        <peak id="1.5" xValue="252.75894165039062" yValue="15135.765625"/>
+        <peak id="1.6" xValue="252.8753204345703" yValue="51803.89453125"/>
+        <peak id="1.7" xValue="252.9924774169922" yValue="30969.580078125"/>
+        <peak id="1.8" xValue="253.013427734375" yValue="20597.810546875"/>
+        <peak id="1.9" xValue="253.0155029296875" yValue="15074.96484375"/>
+        <peak id="1.10" xValue="253.02830505371094" yValue="38196.48828125"/>
+        <peak id="1.11" xValue="253.03274536132812" yValue="61134.375"/>
+        <peak id="1.12" xValue="253.03536987304688" yValue="31215.53125"/>
+        <peak id="1.13" xValue="253.03814697265625" yValue="108134.0625"/>
+        <peak id="1.14" xValue="253.044677734375" yValue="351767.375"/>
+        <peak id="1.15" xValue="253.05047607421875" yValue="2.0317726E7" moleculeRefs="1"/>
+        <peak id="1.16" xValue="253.0545654296875" yValue="243027.15625"/>
+        <peak id="1.17" xValue="253.05584716796875" yValue="220516.453125"/>
+        <peak id="1.18" xValue="253.06234741210938" yValue="169769.3125"/>
+        <peak id="1.19" xValue="253.06671142578125" yValue="40583.02734375"/>
+        <peak id="1.20" xValue="253.07269287109375" yValue="25579.06640625"/>
+        <peak id="1.21" xValue="253.0850830078125" yValue="20920.015625"/>
+        <peak id="1.22" xValue="253.21707153320312" yValue="173457.671875"/>
+        <peak id="1.23" xValue="253.2257080078125" yValue="15845.109375"/>
+        <peak id="1.24" xValue="254.04776000976562" yValue="50158.05859375"/>
+        <peak id="1.25" xValue="254.05374145507812" yValue="3482170.75"/>
+        <peak id="1.26" xValue="254.0612030029297" yValue="13454.3896484375"/>
+        <peak id="1.27" xValue="254.06581115722656" yValue="26617.2890625"/>
+        <peak id="1.28" xValue="254.2200927734375" yValue="26886.51953125"/>
+        <peak id="1.29" xValue="254.91644287109375" yValue="34588.61328125"/>
+        <peak id="1.30" xValue="255.05682373046875" yValue="282262.125"/>
+        <peak id="1.31" xValue="255.0631866455078" yValue="12489.896484375"/>
+        <peak id="1.32" xValue="255.06527709960938" yValue="15000.8876953125"/>
+        <peak id="1.33" xValue="255.19625854492188" yValue="34328.12890625"/>
+        <peak id="1.34" xValue="255.23263549804688" yValue="276674.96875"/>
+        <peak id="1.35" xValue="255.41424560546875" yValue="14172.2724609375"/>
+        <peak id="1.36" xValue="256.0580139160156" yValue="13743.345703125"/>
+        <peak id="1.37" xValue="256.23602294921875" yValue="41510.9765625"/>
+        <peak id="1.38" xValue="257.13897705078125" yValue="20706.521484375"/>
+        <peak id="1.39" xValue="257.2115478515625" yValue="22417.203125"/>
+        <peak id="1.40" xValue="257.6999816894531" yValue="13481.30859375"/>
+      </peakList>
+    </spectrum>
+    <spectrum type="MS" id="2">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">0</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="16"/>
+        <metadata dictRef="nmc:msLevel" content="1"/>
+        <metadata dictRef="nmc:rt" content="296.431"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="2"/>
+      </metadataList>
+      <peakList>
+        <peak id="2.1" xValue="248.960693359375" yValue="457123.4375"/>
+        <peak id="2.2" xValue="248.9727020263672" yValue="14469.28515625"/>
+        <peak id="2.3" xValue="249.96421813964844" yValue="17163.1171875"/>
+        <peak id="2.4" xValue="252.04307556152344" yValue="29597.6796875"/>
+        <peak id="2.5" xValue="252.8756103515625" yValue="60702.52734375"/>
+        <peak id="2.6" xValue="252.9919891357422" yValue="46212.04296875"/>
+        <peak id="2.7" xValue="253.00596618652344" yValue="12184.513671875"/>
+        <peak id="2.8" xValue="253.00714111328125" yValue="11988.5791015625"/>
+        <peak id="2.9" xValue="253.01490783691406" yValue="29469.552734375"/>
+        <peak id="2.10" xValue="253.0171661376953" yValue="14014.6142578125"/>
+        <peak id="2.11" xValue="253.02224731445312" yValue="41367.43359375"/>
+        <peak id="2.12" xValue="253.02554321289062" yValue="32488.435546875"/>
+        <peak id="2.13" xValue="253.0318145751953" yValue="101563.1015625"/>
+        <peak id="2.14" xValue="253.03634643554688" yValue="29705.328125"/>
+        <peak id="2.15" xValue="253.03846740722656" yValue="99005.046875"/>
+        <peak id="2.16" xValue="253.0415496826172" yValue="46440.29296875"/>
+        <peak id="2.17" xValue="253.04574584960938" yValue="491313.84375"/>
+        <peak id="2.18" xValue="253.05072021484375" yValue="2.4340628E7" moleculeRefs="34"/>
+        <peak id="2.19" xValue="253.05657958984375" yValue="431315.125"/>
+        <peak id="2.20" xValue="253.06265258789062" yValue="138996.078125"/>
+        <peak id="2.21" xValue="253.06886291503906" yValue="86562.1484375"/>
+        <peak id="2.22" xValue="253.07875061035156" yValue="40933.73828125"/>
+        <peak id="2.23" xValue="253.08340454101562" yValue="16670.78515625"/>
+        <peak id="2.24" xValue="253.085205078125" yValue="20763.74609375"/>
+        <peak id="2.25" xValue="253.08773803710938" yValue="14138.2607421875"/>
+        <peak id="2.26" xValue="253.09103393554688" yValue="16400.017578125"/>
+        <peak id="2.27" xValue="253.09310913085938" yValue="12542.1171875"/>
+        <peak id="2.28" xValue="253.09927368164062" yValue="17493.232421875"/>
+        <peak id="2.29" xValue="253.1018524169922" yValue="19056.890625"/>
+        <peak id="2.30" xValue="253.10440063476562" yValue="17171.009765625"/>
+        <peak id="2.31" xValue="253.10922241210938" yValue="31333.873046875"/>
+        <peak id="2.32" xValue="253.21731567382812" yValue="251703.203125"/>
+        <peak id="2.33" xValue="253.22622680664062" yValue="52910.078125"/>
+        <peak id="2.34" xValue="253.34365844726562" yValue="17110.7109375"/>
+        <peak id="2.35" xValue="253.60630798339844" yValue="12572.8095703125"/>
+        <peak id="2.36" xValue="254.04893493652344" yValue="77157.4453125"/>
+        <peak id="2.37" xValue="254.05397033691406" yValue="4002745.0"/>
+        <peak id="2.38" xValue="254.05978393554688" yValue="72921.4296875"/>
+        <peak id="2.39" xValue="254.06607055664062" yValue="20884.931640625"/>
+        <peak id="2.40" xValue="254.2209014892578" yValue="43986.31640625"/>
+        <peak id="2.41" xValue="254.9170684814453" yValue="38997.87109375"/>
+        <peak id="2.42" xValue="255.056884765625" yValue="305930.625"/>
+        <peak id="2.43" xValue="255.2329559326172" yValue="470894.4375"/>
+        <peak id="2.44" xValue="256.0587158203125" yValue="17733.34765625"/>
+        <peak id="2.45" xValue="256.23626708984375" yValue="65297.55859375"/>
+        <peak id="2.46" xValue="257.1029968261719" yValue="18581.71484375"/>
+        <peak id="2.47" xValue="257.13983154296875" yValue="23693.181640625"/>
+      </peakList>
+    </spectrum>
+    <spectrum type="MS" id="3">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">0</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="32"/>
+        <metadata dictRef="nmc:msLevel" content="1"/>
+        <metadata dictRef="nmc:rt" content="573.451"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="3"/>
+      </metadataList>
+      <peakList>
+        <peak id="3.1" xValue="248.9606475830078" yValue="481250.65625"/>
+        <peak id="3.2" xValue="249.96385192871094" yValue="20003.765625"/>
+        <peak id="3.3" xValue="252.4071807861328" yValue="13548.2763671875"/>
+        <peak id="3.4" xValue="252.41595458984375" yValue="16212.3876953125"/>
+        <peak id="3.5" xValue="252.87545776367188" yValue="75197.5703125"/>
+        <peak id="3.6" xValue="252.99256896972656" yValue="54744.90625"/>
+        <peak id="3.7" xValue="253.0181427001953" yValue="15317.10546875"/>
+        <peak id="3.8" xValue="253.02098083496094" yValue="38913.7734375"/>
+        <peak id="3.9" xValue="253.02381896972656" yValue="35898.0703125"/>
+        <peak id="3.10" xValue="253.0284423828125" yValue="26270.072265625"/>
+        <peak id="3.11" xValue="253.03189086914062" yValue="60796.60546875"/>
+        <peak id="3.12" xValue="253.03424072265625" yValue="30235.041015625"/>
+        <peak id="3.13" xValue="253.03770446777344" yValue="38941.78125"/>
+        <peak id="3.14" xValue="253.0404815673828" yValue="68297.0546875"/>
+        <peak id="3.15" xValue="253.0445556640625" yValue="528571.3125"/>
+        <peak id="3.16" xValue="253.04710388183594" yValue="227268.578125"/>
+        <peak id="3.17" xValue="253.05068969726562" yValue="2.5421314E7" moleculeRefs="66"/>
+        <peak id="3.18" xValue="253.0561065673828" yValue="373095.46875"/>
+        <peak id="3.19" xValue="253.05735778808594" yValue="381146.625"/>
+        <peak id="3.20" xValue="253.06277465820312" yValue="40867.1171875"/>
+        <peak id="3.21" xValue="253.0650634765625" yValue="18325.1015625"/>
+        <peak id="3.22" xValue="253.06878662109375" yValue="54446.9453125"/>
+        <peak id="3.23" xValue="253.07904052734375" yValue="38356.4375"/>
+        <peak id="3.24" xValue="253.08169555664062" yValue="29084.419921875"/>
+        <peak id="3.25" xValue="253.09597778320312" yValue="20296.54296875"/>
+        <peak id="3.26" xValue="253.09841918945312" yValue="17015.822265625"/>
+        <peak id="3.27" xValue="253.10299682617188" yValue="22133.51953125"/>
+        <peak id="3.28" xValue="253.10911560058594" yValue="40336.0234375"/>
+        <peak id="3.29" xValue="253.2172088623047" yValue="267858.5625"/>
+        <peak id="3.30" xValue="253.2261199951172" yValue="57834.2890625"/>
+        <peak id="3.31" xValue="254.04783630371094" yValue="75110.7734375"/>
+        <peak id="3.32" xValue="254.04957580566406" yValue="26854.92578125"/>
+        <peak id="3.33" xValue="254.05393981933594" yValue="4060847.5"/>
+        <peak id="3.34" xValue="254.059326171875" yValue="54930.703125"/>
+        <peak id="3.35" xValue="254.06080627441406" yValue="59712.22265625"/>
+        <peak id="3.36" xValue="254.22059631347656" yValue="55324.7109375"/>
+        <peak id="3.37" xValue="254.91690063476562" yValue="35446.17578125"/>
+        <peak id="3.38" xValue="255.05702209472656" yValue="370711.125"/>
+        <peak id="3.39" xValue="255.23287963867188" yValue="433826.0625"/>
+        <peak id="3.40" xValue="256.05865478515625" yValue="36959.22265625"/>
+        <peak id="3.41" xValue="256.1649475097656" yValue="16414.33203125"/>
+        <peak id="3.42" xValue="256.2362365722656" yValue="67991.953125"/>
+      </peakList>
+    </spectrum>
+    <spectrum type="MS" id="4">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">0</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="48"/>
+        <metadata dictRef="nmc:msLevel" content="1"/>
+        <metadata dictRef="nmc:rt" content="850.581"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="4"/>
+      </metadataList>
+      <peakList>
+        <peak id="4.1" xValue="248.46868896484375" yValue="13047.615234375"/>
+        <peak id="4.2" xValue="248.9605255126953" yValue="588189.3125"/>
+        <peak id="4.3" xValue="252.03749084472656" yValue="16196.0185546875"/>
+        <peak id="4.4" xValue="252.75863647460938" yValue="21334.29296875"/>
+        <peak id="4.5" xValue="252.87535095214844" yValue="80457.5703125"/>
+        <peak id="4.6" xValue="252.9921875" yValue="70789.0703125"/>
+        <peak id="4.7" xValue="252.9988555908203" yValue="29559.083984375"/>
+        <peak id="4.8" xValue="253.01943969726562" yValue="20549.236328125"/>
+        <peak id="4.9" xValue="253.0209503173828" yValue="24079.166015625"/>
+        <peak id="4.10" xValue="253.0237579345703" yValue="17125.216796875"/>
+        <peak id="4.11" xValue="253.02850341796875" yValue="39233.4140625"/>
+        <peak id="4.12" xValue="253.03248596191406" yValue="47208.5859375"/>
+        <peak id="4.13" xValue="253.03729248046875" yValue="168786.234375"/>
+        <peak id="4.14" xValue="253.04002380371094" yValue="67499.4375"/>
+        <peak id="4.15" xValue="253.04440307617188" yValue="401731.9375"/>
+        <peak id="4.16" xValue="253.05059814453125" yValue="2.542448E7" moleculeRefs="98"/>
+        <peak id="4.17" xValue="253.05401611328125" yValue="309241.875"/>
+        <peak id="4.18" xValue="253.05679321289062" yValue="238066.984375"/>
+        <peak id="4.19" xValue="253.05979919433594" yValue="71078.8125"/>
+        <peak id="4.20" xValue="253.06297302246094" yValue="166428.90625"/>
+        <peak id="4.21" xValue="253.0697479248047" yValue="50875.1953125"/>
+        <peak id="4.22" xValue="253.07174682617188" yValue="21258.169921875"/>
+        <peak id="4.23" xValue="253.0791778564453" yValue="26656.84765625"/>
+        <peak id="4.24" xValue="253.0833740234375" yValue="31926.80859375"/>
+        <peak id="4.25" xValue="253.1085205078125" yValue="31417.30078125"/>
+        <peak id="4.26" xValue="253.11000061035156" yValue="29282.03515625"/>
+        <peak id="4.27" xValue="253.12191772460938" yValue="18132.40234375"/>
+        <peak id="4.28" xValue="253.1240234375" yValue="13484.767578125"/>
+        <peak id="4.29" xValue="253.21719360351562" yValue="260006.71875"/>
+        <peak id="4.30" xValue="253.22581481933594" yValue="46130.75390625"/>
+        <peak id="4.31" xValue="254.0405731201172" yValue="24985.716796875"/>
+        <peak id="4.32" xValue="254.04750061035156" yValue="57091.9375"/>
+        <peak id="4.33" xValue="254.05384826660156" yValue="4225912.0"/>
+        <peak id="4.34" xValue="254.06036376953125" yValue="38461.26953125"/>
+        <peak id="4.35" xValue="254.06687927246094" yValue="21672.75390625"/>
+        <peak id="4.36" xValue="254.22059631347656" yValue="52875.21875"/>
+        <peak id="4.37" xValue="254.91685485839844" yValue="56743.01953125"/>
+        <peak id="4.38" xValue="255.05694580078125" yValue="349461.375"/>
+        <peak id="4.39" xValue="255.23280334472656" yValue="418168.40625"/>
+        <peak id="4.40" xValue="256.05828857421875" yValue="36879.90625"/>
+        <peak id="4.41" xValue="256.236083984375" yValue="53995.3046875"/>
+        <peak id="4.42" xValue="256.5937194824219" yValue="12183.65234375"/>
+        <peak id="4.43" xValue="257.17572021484375" yValue="14522.0830078125"/>
+        <peak id="4.44" xValue="257.38824462890625" yValue="16916.822265625"/>
+      </peakList>
+    </spectrum>
+    <spectrum type="MS" id="5">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">253.05047607</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:collisionEnergy" dataType="xsd:string">35.0</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="2"/>
+        <metadata dictRef="nmc:msLevel" content="2"/>
+        <metadata dictRef="nmc:rt" content="32.7828"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="1"/>
+      </metadataList>
+      <peakList>
+        <peak id="5" xValue="225.05548095703125" yValue="9017774.0" moleculeRefs="2"/>
+        <peak id="6" xValue="253.0503387451172" yValue="4522185.0"/>
+        <peak id="7" xValue="209.06056213378906" yValue="1915276.375" moleculeRefs="4"/>
+        <peak id="8" xValue="197.0605926513672" yValue="1583795.25" moleculeRefs="5"/>
+        <peak id="9" xValue="208.05282592773438" yValue="162540.53125" moleculeRefs="6"/>
+      </peakList>
+    </spectrum>
+    <spectrum type="MS" id="6">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">225.05548095703125</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">5</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:collisionEnergy" dataType="xsd:string">35.0</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="3"/>
+        <metadata dictRef="nmc:msLevel" content="3"/>
+        <metadata dictRef="nmc:rt" content="38.6845"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="1"/>
+      </metadataList>
+      <peakList>
+        <peak id="10" xValue="197.06040954589844" yValue="7276626.5" moleculeRefs="7"/>
+        <peak id="11" xValue="225.05532836914062" yValue="1605998.0"/>
+      </peakList>
+    </spectrum>
+    <spectrum type="MS" id="7">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">197.06040954589844</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">6</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:collisionEnergy" dataType="xsd:string">35.0</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="4"/>
+        <metadata dictRef="nmc:msLevel" content="4"/>
+        <metadata dictRef="nmc:rt" content="51.014"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="1"/>
+      </metadataList>
+      <peakList>
+        <peak id="12" xValue="197.06031799316406" yValue="1987971.5"/>
+        <peak id="13" xValue="169.06553649902344" yValue="145836.859375" moleculeRefs="23"/>
+        <peak id="14" xValue="195.0447998046875" yValue="138334.078125" moleculeRefs="24"/>
+        <peak id="15" xValue="121.02937316894531" yValue="98632.8515625" moleculeRefs="25"/>
+        <peak id="16" xValue="179.0498504638672" yValue="41529.20703125" moleculeRefs="26"/>
+        <peak id="17" xValue="167.0498809814453" yValue="17699.6640625" moleculeRefs="27"/>
+        <peak id="18" xValue="151.05517578125" yValue="17269.462890625" moleculeRefs="28"/>
+      </peakList>
+    </spectrum>
+    <spectrum type="MS" id="8">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">169.06553649902344</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">7</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:collisionEnergy" dataType="xsd:string">35.0</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="5"/>
+        <metadata dictRef="nmc:msLevel" content="5"/>
+        <metadata dictRef="nmc:rt" content="71.1735"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="1"/>
+      </metadataList>
+      <peakList>
+        <peak id="19" xValue="131.52503967285156" yValue="1644.21533203125"/>
+      </peakList>
+    </spectrum>
+    <spectrum type="MS" id="9">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">195.0447998046875</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">7</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:collisionEnergy" dataType="xsd:string">35.0</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="6"/>
+        <metadata dictRef="nmc:msLevel" content="5"/>
+        <metadata dictRef="nmc:rt" content="100.399"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="1"/>
+      </metadataList>
+      <peakList>
+        <peak id="20" xValue="195.0445556640625" yValue="4346.9638671875"/>
+      </peakList>
+    </spectrum>
+    <spectrum type="MS" id="10">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">209.06056213378906</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">5</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:collisionEnergy" dataType="xsd:string">35.0</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="8"/>
+        <metadata dictRef="nmc:msLevel" content="3"/>
+        <metadata dictRef="nmc:rt" content="158.864"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="1"/>
+      </metadataList>
+      <peakList>
+        <peak id="21" xValue="181.0653839111328" yValue="149733.140625" moleculeRefs="9"/>
+        <peak id="22" xValue="167.04986572265625" yValue="89692.4140625" moleculeRefs="10"/>
+        <peak id="23" xValue="180.05758666992188" yValue="13843.9091796875" moleculeRefs="11"/>
+        <peak id="24" xValue="153.07070922851562" yValue="6643.84228515625" moleculeRefs="12"/>
+      </peakList>
+    </spectrum>
+    <spectrum type="MS" id="11">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">181.0653839111328</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">10</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:collisionEnergy" dataType="xsd:string">35.0</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="9"/>
+        <metadata dictRef="nmc:msLevel" content="4"/>
+        <metadata dictRef="nmc:rt" content="170.861"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="1"/>
+      </metadataList>
+      <peakList>
+        <peak id="25" xValue="153.07083129882812" yValue="3182.57958984375" moleculeRefs="29"/>
+      </peakList>
+    </spectrum>
+    <spectrum type="MS" id="12">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">197.0605926513672</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">5</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:collisionEnergy" dataType="xsd:string">35.0</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="11"/>
+        <metadata dictRef="nmc:msLevel" content="3"/>
+        <metadata dictRef="nmc:rt" content="211.191"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="1"/>
+      </metadataList>
+      <peakList>
+        <peak id="26" xValue="197.060302734375" yValue="82951.703125"/>
+        <peak id="27" xValue="195.0447235107422" yValue="74654.640625" moleculeRefs="14"/>
+        <peak id="28" xValue="169.0655059814453" yValue="63940.09375" moleculeRefs="15"/>
+        <peak id="29" xValue="121.02937316894531" yValue="43858.14453125" moleculeRefs="16"/>
+        <peak id="30" xValue="179.0498046875" yValue="18017.984375" moleculeRefs="17"/>
+        <peak id="31" xValue="151.0551300048828" yValue="8158.06494140625" moleculeRefs="18"/>
+      </peakList>
+    </spectrum>
+    <spectrum type="MS" id="13">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">195.0447235107422</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">12</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:collisionEnergy" dataType="xsd:string">35.0</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="12"/>
+        <metadata dictRef="nmc:msLevel" content="4"/>
+        <metadata dictRef="nmc:rt" content="223.245"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="1"/>
+      </metadataList>
+      <peakList>
+        <peak id="32" xValue="131.51942443847656" yValue="1803.7882080078125"/>
+      </peakList>
+    </spectrum>
+    <spectrum type="MS" id="14">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">208.05282592773438</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">5</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:collisionEnergy" dataType="xsd:string">35.0</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="14"/>
+        <metadata dictRef="nmc:msLevel" content="3"/>
+        <metadata dictRef="nmc:rt" content="263.564"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="1"/>
+      </metadataList>
+      <peakList>
+        <peak id="33" xValue="181.06544494628906" yValue="83338.7109375"/>
+        <peak id="34" xValue="209.06027221679688" yValue="62432.65234375"/>
+        <peak id="35" xValue="167.04994201660156" yValue="38014.01171875" moleculeRefs="21"/>
+      </peakList>
+    </spectrum>
+    <spectrum type="MS" id="15">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">181.06544494628906</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">14</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:collisionEnergy" dataType="xsd:string">35.0</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="15"/>
+        <metadata dictRef="nmc:msLevel" content="4"/>
+        <metadata dictRef="nmc:rt" content="275.718"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="1"/>
+      </metadataList>
+      <peakList>
+        <peak id="36" xValue="131.51979064941406" yValue="1697.281982421875"/>
+      </peakList>
+    </spectrum>
+    <spectrum type="MS" id="16">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">253.05072021</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">2</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:collisionEnergy" dataType="xsd:string">35.0</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="17"/>
+        <metadata dictRef="nmc:msLevel" content="2"/>
+        <metadata dictRef="nmc:rt" content="298.863"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="2"/>
+      </metadataList>
+      <peakList>
+        <peak id="37" xValue="225.05560302734375" yValue="1.1053547E7" moleculeRefs="35"/>
+        <peak id="38" xValue="253.05047607421875" yValue="5446209.5"/>
+        <peak id="39" xValue="209.06068420410156" yValue="2362566.25" moleculeRefs="37"/>
+        <peak id="40" xValue="197.0607147216797" yValue="1941587.5" moleculeRefs="38"/>
+        <peak id="41" xValue="208.05291748046875" yValue="200896.515625" moleculeRefs="39"/>
+      </peakList>
+    </spectrum>
+    <spectrum type="MS" id="17">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">225.05560302734375</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">16</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:collisionEnergy" dataType="xsd:string">35.0</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="18"/>
+        <metadata dictRef="nmc:msLevel" content="3"/>
+        <metadata dictRef="nmc:rt" content="304.555"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="2"/>
+      </metadataList>
+      <peakList>
+        <peak id="42" xValue="197.0604248046875" yValue="8363594.0" moleculeRefs="40"/>
+        <peak id="43" xValue="225.05535888671875" yValue="2025113.5"/>
+      </peakList>
+    </spectrum>
+    <spectrum type="MS" id="18">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">197.0604248046875</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">17</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:collisionEnergy" dataType="xsd:string">35.0</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="19"/>
+        <metadata dictRef="nmc:msLevel" content="4"/>
+        <metadata dictRef="nmc:rt" content="316.613"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="2"/>
+      </metadataList>
+      <peakList>
+        <peak id="44" xValue="197.06027221679688" yValue="2656257.25"/>
+        <peak id="45" xValue="169.06549072265625" yValue="150205.78125" moleculeRefs="57"/>
+        <peak id="46" xValue="195.04476928710938" yValue="132110.875" moleculeRefs="58"/>
+        <peak id="47" xValue="121.02935028076172" yValue="103494.328125" moleculeRefs="59"/>
+        <peak id="48" xValue="179.04983520507812" yValue="44510.38671875" moleculeRefs="60"/>
+      </peakList>
+    </spectrum>
+    <spectrum type="MS" id="19">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">169.06549072265625</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">18</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:collisionEnergy" dataType="xsd:string">35.0</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="20"/>
+        <metadata dictRef="nmc:msLevel" content="5"/>
+        <metadata dictRef="nmc:rt" content="336.8"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="2"/>
+      </metadataList>
+      <peakList>
+        <peak id="49" xValue="131.52659606933594" yValue="2048.640380859375"/>
+      </peakList>
+    </spectrum>
+    <spectrum type="MS" id="20">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">195.04476928710938</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">18</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:collisionEnergy" dataType="xsd:string">35.0</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="21"/>
+        <metadata dictRef="nmc:msLevel" content="5"/>
+        <metadata dictRef="nmc:rt" content="366.025"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="2"/>
+      </metadataList>
+      <peakList>
+        <peak id="50" xValue="195.04469299316406" yValue="4924.24072265625"/>
+      </peakList>
+    </spectrum>
+    <spectrum type="MS" id="21">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">121.02935028076172</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">18</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:collisionEnergy" dataType="xsd:string">35.0</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="22"/>
+        <metadata dictRef="nmc:msLevel" content="5"/>
+        <metadata dictRef="nmc:rt" content="395.264"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="2"/>
+      </metadataList>
+      <peakList>
+        <peak id="51" xValue="131.52639770507812" yValue="2551.685791015625"/>
+      </peakList>
+    </spectrum>
+    <spectrum type="MS" id="22">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">209.06068420410156</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">16</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:collisionEnergy" dataType="xsd:string">35.0</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="23"/>
+        <metadata dictRef="nmc:msLevel" content="3"/>
+        <metadata dictRef="nmc:rt" content="424.488"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="2"/>
+      </metadataList>
+      <peakList>
+        <peak id="52" xValue="181.06544494628906" yValue="163212.84375" moleculeRefs="42"/>
+        <peak id="53" xValue="167.04991149902344" yValue="95545.3671875" moleculeRefs="43"/>
+        <peak id="54" xValue="209.06028747558594" yValue="87445.546875"/>
+      </peakList>
+    </spectrum>
+    <spectrum type="MS" id="23">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">181.06544494628906</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">22</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:collisionEnergy" dataType="xsd:string">35.0</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="24"/>
+        <metadata dictRef="nmc:msLevel" content="4"/>
+        <metadata dictRef="nmc:rt" content="436.442"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="2"/>
+      </metadataList>
+      <peakList>
+        <peak id="55" xValue="153.07093811035156" yValue="2386.81982421875" moleculeRefs="61"/>
+      </peakList>
+    </spectrum>
+    <spectrum type="MS" id="24">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">197.0607147216797</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">16</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:collisionEnergy" dataType="xsd:string">35.0</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="26"/>
+        <metadata dictRef="nmc:msLevel" content="3"/>
+        <metadata dictRef="nmc:rt" content="476.745"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="2"/>
+      </metadataList>
+      <peakList>
+        <peak id="56" xValue="197.06027221679688" yValue="79522.7578125"/>
+        <peak id="57" xValue="195.044677734375" yValue="72717.0625" moleculeRefs="46"/>
+        <peak id="58" xValue="169.06546020507812" yValue="65339.625" moleculeRefs="47"/>
+        <peak id="59" xValue="121.02934265136719" yValue="43883.921875" moleculeRefs="48"/>
+        <peak id="60" xValue="179.04974365234375" yValue="19096.41015625" moleculeRefs="49"/>
+        <peak id="61" xValue="167.05006408691406" yValue="7783.37890625" moleculeRefs="50"/>
+        <peak id="62" xValue="151.0550079345703" yValue="7066.12353515625" moleculeRefs="51"/>
+      </peakList>
+    </spectrum>
+    <spectrum type="MS" id="25">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">169.06546020507812</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">24</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:collisionEnergy" dataType="xsd:string">35.0</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="28"/>
+        <metadata dictRef="nmc:msLevel" content="4"/>
+        <metadata dictRef="nmc:rt" content="508.895"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="2"/>
+      </metadataList>
+      <peakList>
+        <peak id="63" xValue="131.53005981445312" yValue="1968.4061279296875"/>
+      </peakList>
+    </spectrum>
+    <spectrum type="MS" id="26">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">208.05291748046875</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">16</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:collisionEnergy" dataType="xsd:string">35.0</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="29"/>
+        <metadata dictRef="nmc:msLevel" content="3"/>
+        <metadata dictRef="nmc:rt" content="529.054"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="2"/>
+      </metadataList>
+      <peakList>
+        <peak id="64" xValue="181.0654296875" yValue="91501.9765625"/>
+        <peak id="65" xValue="209.06027221679688" yValue="71545.9296875"/>
+        <peak id="66" xValue="167.04995727539062" yValue="43434.78515625" moleculeRefs="54"/>
+        <peak id="67" xValue="131.5258331298828" yValue="4298.4755859375"/>
+      </peakList>
+    </spectrum>
+    <spectrum type="MS" id="27">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">253.0506897</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">3</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:collisionEnergy" dataType="xsd:string">35.0</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="33"/>
+        <metadata dictRef="nmc:msLevel" content="2"/>
+        <metadata dictRef="nmc:rt" content="575.883"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="3"/>
+      </metadataList>
+      <peakList>
+        <peak id="68" xValue="225.0554962158203" yValue="1.2410658E7" moleculeRefs="67"/>
+        <peak id="69" xValue="253.05035400390625" yValue="6104948.5"/>
+        <peak id="70" xValue="209.0605926513672" yValue="2648319.5" moleculeRefs="69"/>
+        <peak id="71" xValue="197.06060791015625" yValue="2182266.25" moleculeRefs="70"/>
+        <peak id="72" xValue="208.05284118652344" yValue="227077.890625" moleculeRefs="71"/>
+      </peakList>
+    </spectrum>
+    <spectrum type="MS" id="28">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">225.0554962158203</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">27</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:collisionEnergy" dataType="xsd:string">35.0</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="34"/>
+        <metadata dictRef="nmc:msLevel" content="3"/>
+        <metadata dictRef="nmc:rt" content="581.505"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="3"/>
+      </metadataList>
+      <peakList>
+        <peak id="73" xValue="197.06039428710938" yValue="9122500.0" moleculeRefs="72"/>
+        <peak id="74" xValue="225.05532836914062" yValue="2289483.0"/>
+      </peakList>
+    </spectrum>
+    <spectrum type="MS" id="29">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">197.06039428710938</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">28</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:collisionEnergy" dataType="xsd:string">35.0</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="35"/>
+        <metadata dictRef="nmc:msLevel" content="4"/>
+        <metadata dictRef="nmc:rt" content="593.362"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="3"/>
+      </metadataList>
+      <peakList>
+        <peak id="75" xValue="197.0602569580078" yValue="2777921.5"/>
+        <peak id="76" xValue="169.0654754638672" yValue="153823.59375" moleculeRefs="88"/>
+        <peak id="77" xValue="195.0447540283203" yValue="130300.1171875" moleculeRefs="89"/>
+        <peak id="78" xValue="121.02932739257812" yValue="103988.6875" moleculeRefs="90"/>
+        <peak id="79" xValue="179.04981994628906" yValue="42951.19140625" moleculeRefs="91"/>
+        <peak id="80" xValue="167.0498504638672" yValue="19705.7578125" moleculeRefs="92"/>
+      </peakList>
+    </spectrum>
+    <spectrum type="MS" id="30">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">169.0654754638672</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">29</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:collisionEnergy" dataType="xsd:string">35.0</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="36"/>
+        <metadata dictRef="nmc:msLevel" content="5"/>
+        <metadata dictRef="nmc:rt" content="613.546"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="3"/>
+      </metadataList>
+      <peakList>
+        <peak id="81" xValue="141.0708770751953" yValue="2461.39501953125" moleculeRefs="96"/>
+      </peakList>
+    </spectrum>
+    <spectrum type="MS" id="31">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">195.0447540283203</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">29</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:collisionEnergy" dataType="xsd:string">35.0</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="37"/>
+        <metadata dictRef="nmc:msLevel" content="5"/>
+        <metadata dictRef="nmc:rt" content="642.772"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="3"/>
+      </metadataList>
+      <peakList>
+        <peak id="82" xValue="195.0445098876953" yValue="4389.98974609375"/>
+      </peakList>
+    </spectrum>
+    <spectrum type="MS" id="32">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">209.0605926513672</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">27</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:collisionEnergy" dataType="xsd:string">35.0</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="39"/>
+        <metadata dictRef="nmc:msLevel" content="3"/>
+        <metadata dictRef="nmc:rt" content="701.236"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="3"/>
+      </metadataList>
+      <peakList>
+        <peak id="83" xValue="181.06532287597656" yValue="158670.34375" moleculeRefs="74"/>
+        <peak id="84" xValue="167.04981994628906" yValue="92902.40625" moleculeRefs="75"/>
+        <peak id="85" xValue="209.06015014648438" yValue="87062.21875"/>
+        <peak id="86" xValue="153.07069396972656" yValue="6364.173828125" moleculeRefs="77"/>
+      </peakList>
+    </spectrum>
+    <spectrum type="MS" id="33">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">181.06532287597656</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">32</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:collisionEnergy" dataType="xsd:string">35.0</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="40"/>
+        <metadata dictRef="nmc:msLevel" content="4"/>
+        <metadata dictRef="nmc:rt" content="713.216"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="3"/>
+      </metadataList>
+      <peakList>
+        <peak id="87" xValue="153.07015991210938" yValue="2457.70703125" moleculeRefs="93"/>
+      </peakList>
+    </spectrum>
+    <spectrum type="MS" id="34">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">167.04981994628906</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">32</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:collisionEnergy" dataType="xsd:string">35.0</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="41"/>
+        <metadata dictRef="nmc:msLevel" content="4"/>
+        <metadata dictRef="nmc:rt" content="733.369"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="3"/>
+      </metadataList>
+      <peakList>
+        <peak id="88" xValue="131.52783203125" yValue="3599.82275390625"/>
+      </peakList>
+    </spectrum>
+    <spectrum type="MS" id="35">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">197.06060791015625</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">27</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:collisionEnergy" dataType="xsd:string">35.0</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="42"/>
+        <metadata dictRef="nmc:msLevel" content="3"/>
+        <metadata dictRef="nmc:rt" content="753.539"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="3"/>
+      </metadataList>
+      <peakList>
+        <peak id="89" xValue="197.06021118164062" yValue="90540.0703125"/>
+        <peak id="90" xValue="195.04461669921875" yValue="75412.171875" moleculeRefs="79"/>
+        <peak id="91" xValue="169.06546020507812" yValue="68794.4140625" moleculeRefs="80"/>
+        <peak id="92" xValue="121.02930450439453" yValue="45135.3359375" moleculeRefs="81"/>
+        <peak id="93" xValue="179.04966735839844" yValue="19459.44921875" moleculeRefs="82"/>
+        <peak id="94" xValue="167.04977416992188" yValue="7386.64501953125" moleculeRefs="83"/>
+        <peak id="95" xValue="151.05503845214844" yValue="7212.09130859375" moleculeRefs="84"/>
+      </peakList>
+    </spectrum>
+    <spectrum type="MS" id="36">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">195.04461669921875</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">35</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:collisionEnergy" dataType="xsd:string">35.0</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="43"/>
+        <metadata dictRef="nmc:msLevel" content="4"/>
+        <metadata dictRef="nmc:rt" content="765.542"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="3"/>
+      </metadataList>
+      <peakList>
+        <peak id="96" xValue="131.5205078125" yValue="1910.6282958984375"/>
+      </peakList>
+    </spectrum>
+    <spectrum type="MS" id="37">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">208.05284118652344</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">27</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:collisionEnergy" dataType="xsd:string">35.0</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="45"/>
+        <metadata dictRef="nmc:msLevel" content="3"/>
+        <metadata dictRef="nmc:rt" content="805.867"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="3"/>
+      </metadataList>
+      <peakList>
+        <peak id="97" xValue="181.06533813476562" yValue="86630.0234375"/>
+        <peak id="98" xValue="167.04981994628906" yValue="41469.375" moleculeRefs="86"/>
+      </peakList>
+    </spectrum>
+    <spectrum type="MS" id="38">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">253.05059814</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">4</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:collisionEnergy" dataType="xsd:string">35.0</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="49"/>
+        <metadata dictRef="nmc:msLevel" content="2"/>
+        <metadata dictRef="nmc:rt" content="853.013"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="4"/>
+      </metadataList>
+      <peakList>
+        <peak id="99" xValue="225.05548095703125" yValue="1.2351564E7" moleculeRefs="99"/>
+        <peak id="100" xValue="253.0503387451172" yValue="5884173.5"/>
+        <peak id="101" xValue="209.06057739257812" yValue="2636569.5" moleculeRefs="101"/>
+        <peak id="102" xValue="197.06060791015625" yValue="2154186.0" moleculeRefs="102"/>
+        <peak id="103" xValue="208.05284118652344" yValue="223703.375" moleculeRefs="103"/>
+        <peak id="104" xValue="181.06570434570312" yValue="67206.5546875" moleculeRefs="104"/>
+      </peakList>
+    </spectrum>
+    <spectrum type="MS" id="39">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">225.05548095703125</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">38</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:collisionEnergy" dataType="xsd:string">35.0</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="50"/>
+        <metadata dictRef="nmc:msLevel" content="3"/>
+        <metadata dictRef="nmc:rt" content="858.625"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="4"/>
+      </metadataList>
+      <peakList>
+        <peak id="105" xValue="197.060302734375" yValue="9091334.0" moleculeRefs="105"/>
+        <peak id="106" xValue="225.0552215576172" yValue="2265317.0"/>
+      </peakList>
+    </spectrum>
+    <spectrum type="MS" id="40">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">197.060302734375</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">39</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:collisionEnergy" dataType="xsd:string">35.0</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="51"/>
+        <metadata dictRef="nmc:msLevel" content="4"/>
+        <metadata dictRef="nmc:rt" content="870.593"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="4"/>
+      </metadataList>
+      <peakList>
+        <peak id="107" xValue="197.06027221679688" yValue="2859307.25"/>
+        <peak id="108" xValue="169.0655059814453" yValue="157446.515625" moleculeRefs="118"/>
+        <peak id="109" xValue="195.04478454589844" yValue="136360.828125" moleculeRefs="119"/>
+        <peak id="110" xValue="121.02934265136719" yValue="104243.109375" moleculeRefs="120"/>
+        <peak id="111" xValue="179.0498046875" yValue="43456.42578125" moleculeRefs="121"/>
+      </peakList>
+    </spectrum>
+    <spectrum type="MS" id="41">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">169.0655059814453</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">40</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:collisionEnergy" dataType="xsd:string">35.0</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="52"/>
+        <metadata dictRef="nmc:msLevel" content="5"/>
+        <metadata dictRef="nmc:rt" content="890.772"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="4"/>
+      </metadataList>
+      <peakList>
+        <peak id="112" xValue="141.0706024169922" yValue="2260.1875" moleculeRefs="124"/>
+      </peakList>
+    </spectrum>
+    <spectrum type="MS" id="42">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">209.06057739257812</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">38</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:collisionEnergy" dataType="xsd:string">35.0</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="55"/>
+        <metadata dictRef="nmc:msLevel" content="3"/>
+        <metadata dictRef="nmc:rt" content="978.462"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="4"/>
+      </metadataList>
+      <peakList>
+        <peak id="113" xValue="181.06541442871094" yValue="156335.0" moleculeRefs="107"/>
+        <peak id="114" xValue="153.07052612304688" yValue="7046.80224609375" moleculeRefs="108"/>
+      </peakList>
+    </spectrum>
+    <spectrum type="MS" id="43">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">181.06541442871094</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">42</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:collisionEnergy" dataType="xsd:string">35.0</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="56"/>
+        <metadata dictRef="nmc:msLevel" content="4"/>
+        <metadata dictRef="nmc:rt" content="990.454"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="4"/>
+      </metadataList>
+      <peakList>
+        <peak id="115" xValue="153.07073974609375" yValue="2393.233154296875" moleculeRefs="122"/>
+      </peakList>
+    </spectrum>
+    <spectrum type="MS" id="44">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">197.06060791015625</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">38</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:collisionEnergy" dataType="xsd:string">35.0</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="58"/>
+        <metadata dictRef="nmc:msLevel" content="3"/>
+        <metadata dictRef="nmc:rt" content="1030.79"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="4"/>
+      </metadataList>
+      <peakList>
+        <peak id="116" xValue="197.0601806640625" yValue="83866.25"/>
+        <peak id="117" xValue="169.06539916992188" yValue="71136.6484375" moleculeRefs="110"/>
+        <peak id="118" xValue="121.02924346923828" yValue="46027.47265625" moleculeRefs="111"/>
+        <peak id="119" xValue="151.0550537109375" yValue="6478.63916015625" moleculeRefs="112"/>
+        <peak id="120" xValue="141.07044982910156" yValue="4701.6103515625" moleculeRefs="113"/>
+      </peakList>
+    </spectrum>
+    <spectrum type="MS" id="45">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">169.06539916992188</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">44</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:collisionEnergy" dataType="xsd:string">35.0</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="60"/>
+        <metadata dictRef="nmc:msLevel" content="4"/>
+        <metadata dictRef="nmc:rt" content="1062.93"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="4"/>
+      </metadataList>
+      <peakList>
+        <peak id="121" xValue="131.50038146972656" yValue="1772.1807861328125"/>
+      </peakList>
+    </spectrum>
+    <spectrum type="MS" id="46">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">208.05284118652344</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">38</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:collisionEnergy" dataType="xsd:string">35.0</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="61"/>
+        <metadata dictRef="nmc:msLevel" content="3"/>
+        <metadata dictRef="nmc:rt" content="1083.09"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="4"/>
+      </metadataList>
+      <peakList>
+        <peak id="122" xValue="181.06536865234375" yValue="92788.3984375"/>
+        <peak id="123" xValue="167.04983520507812" yValue="44846.5390625" moleculeRefs="115"/>
+      </peakList>
+    </spectrum>
+    <spectrum type="MS" id="47">
+      <conditionList>
+        <scalar dictRef="nmc:precursorMZ" dataType="xsd:string">181.06570434570312</scalar>
+        <scalar dictRef="nmc:precursorScan" dataType="xsd:string">38</scalar>
+        <scalar dictRef="nmc:window" dataType="xsd:string">1</scalar>
+        <scalar dictRef="nmc:collisionEnergy" dataType="xsd:string">35.0</scalar>
+        <scalar dictRef="nmc:activationMethod" dataType="xsd:string">CID</scalar>
+        <scalar dictRef="nmc:polarity" dataType="xsd:string">negative</scalar>
+      </conditionList>
+      <metadataList>
+        <metadata dictRef="nmc:scanNum" content="63"/>
+        <metadata dictRef="nmc:msLevel" content="3"/>
+        <metadata dictRef="nmc:rt" content="1115.24"/>
+        <metadata dictRef="nmc:groupPeakMSn" content="4"/>
+      </metadataList>
+      <peakList>
+        <peak id="124" xValue="131.535888671875" yValue="2177.249755859375"/>
+      </peakList>
+    </spectrum>
+  </spectrumList>
+  <moleculeList convention="cdk:moleculeSet" xmlns="http://www.xml-cml.org/schema">
+    <molecule id="1">
+      <formula concise="C 15 H 9 O 4">
+        <atomArray elementType="C H O" count="15.0 9.0 4.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="10">
+      <formula concise="C 12 H 7 O 1">
+        <atomArray elementType="C H O" count="12.0 7.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="101">
+      <formula concise="C 14 H 9 O 2">
+        <atomArray elementType="C H O" count="14.0 9.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="101Loss">
+      <formula concise="C 1 O 2">
+        <atomArray elementType="C O" count="1.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="102">
+      <formula concise="C 13 H 9 O 2">
+        <atomArray elementType="C H O" count="13.0 9.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="102Loss">
+      <formula concise="C 2 O 2">
+        <atomArray elementType="C O" count="2.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="103">
+      <formula concise="C 14 H 8 O 2">
+        <atomArray elementType="C H O" count="14.0 8.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="103Loss">
+      <formula concise="C 1 H 1 O 2">
+        <atomArray elementType="C H O" count="1.0 1.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="104">
+      <formula concise="C 13 H 9 O 1">
+        <atomArray elementType="C H O" count="13.0 9.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="104Loss">
+      <formula concise="C 2 O 3">
+        <atomArray elementType="C O" count="2.0 3.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="105">
+      <formula concise="C 13 H 9 O 2">
+        <atomArray elementType="C H O" count="13.0 9.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="105Loss">
+      <formula concise="C 1 O 1">
+        <atomArray elementType="C O" count="1.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="107">
+      <identifier convention="iupac:inchi" value="InChI=1S2/C15H10O4/c16-10-7-5-9(6-8-10)15-14(18)13(17)11-3-1-2-4-12(11)19-15/h1-8,16,18H"/>
+      <formula concise="C 13 H 9 O 1">
+        <atomArray elementType="C H O" count="13.0 9.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:Annotations" dataType="xsd:string">That is a comment</scalar>
+    </molecule>
+    <molecule id="107Loss">
+      <formula concise="C 1 O 1">
+        <atomArray elementType="C O" count="1.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="108">
+      <formula concise="C 12 H 9">
+        <atomArray elementType="C H" count="12.0 9.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="108Loss">
+      <formula concise="C 2 O 2">
+        <atomArray elementType="C O" count="2.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="10Loss">
+      <formula concise="C 2 H 2 O 1">
+        <atomArray elementType="C H O" count="2.0 2.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="11">
+      <formula concise="C 13 H 8 O 1">
+        <atomArray elementType="C H O" count="13.0 8.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="110">
+      <formula concise="C 12 H 9 O 1">
+        <atomArray elementType="C H O" count="12.0 9.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="110Loss">
+      <formula concise="C 1 O 1">
+        <atomArray elementType="C O" count="1.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="111">
+      <formula concise="C 7 H 5 O 2">
+        <atomArray elementType="C H O" count="7.0 5.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="111Loss">
+      <formula concise="C 6 H 4">
+        <atomArray elementType="C H" count="6.0 4.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="112">
+      <formula concise="C 12 H 7">
+        <atomArray elementType="C H" count="12.0 7.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="112Loss">
+      <formula concise="C 1 H 2 O 2">
+        <atomArray elementType="C H O" count="1.0 2.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="113">
+      <formula concise="C 11 H 9">
+        <atomArray elementType="C H" count="11.0 9.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="113Loss">
+      <formula concise="C 2 O 2">
+        <atomArray elementType="C O" count="2.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="115">
+      <formula concise="C 12 H 7 O 1">
+        <atomArray elementType="C H O" count="12.0 7.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="115Loss">
+      <formula concise="C 2 H 1 O 1">
+        <atomArray elementType="C H O" count="2.0 1.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="118">
+      <formula concise="C 12 H 9 O 1">
+        <atomArray elementType="C H O" count="12.0 9.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="118Loss">
+      <formula concise="C 1 O 1">
+        <atomArray elementType="C O" count="1.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="119">
+      <formula concise="C 13 H 7 O 2">
+        <atomArray elementType="C H O" count="13.0 7.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="119Loss">
+      <formula concise="H 2">
+        <atomArray elementType="H" count="2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="11Loss">
+      <formula concise="C 1 H 1 O 1">
+        <atomArray elementType="C H O" count="1.0 1.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="12">
+      <formula concise="C 12 H 9">
+        <atomArray elementType="C H" count="12.0 9.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="120">
+      <formula concise="C 7 H 5 O 2">
+        <atomArray elementType="C H O" count="7.0 5.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="120Loss">
+      <formula concise="C 6 H 4">
+        <atomArray elementType="C H" count="6.0 4.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="121">
+      <formula concise="C 13 H 7 O 1">
+        <atomArray elementType="C H O" count="13.0 7.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="121Loss">
+      <formula concise="H 2 O 1">
+        <atomArray elementType="H O" count="2.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="122">
+      <formula concise="C 12 H 9">
+        <atomArray elementType="C H" count="12.0 9.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="122Loss">
+      <formula concise="C 1 O 1">
+        <atomArray elementType="C O" count="1.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="124">
+      <formula concise="C 11 H 9">
+        <atomArray elementType="C H" count="11.0 9.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="124Loss">
+      <formula concise="C 1 O 1">
+        <atomArray elementType="C O" count="1.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="12Loss">
+      <formula concise="C 2 O 2">
+        <atomArray elementType="C O" count="2.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="14">
+      <formula concise="C 13 H 7 O 2">
+        <atomArray elementType="C H O" count="13.0 7.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="14Loss">
+      <formula concise="H 2">
+        <atomArray elementType="H" count="2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="15">
+      <formula concise="C 12 H 9 O 1">
+        <atomArray elementType="C H O" count="12.0 9.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="15Loss">
+      <formula concise="C 1 O 1">
+        <atomArray elementType="C O" count="1.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="16">
+      <formula concise="C 7 H 5 O 2">
+        <atomArray elementType="C H O" count="7.0 5.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="16Loss">
+      <formula concise="C 6 H 4">
+        <atomArray elementType="C H" count="6.0 4.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="17">
+      <formula concise="C 13 H 7 O 1">
+        <atomArray elementType="C H O" count="13.0 7.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="17Loss">
+      <formula concise="H 2 O 1">
+        <atomArray elementType="H O" count="2.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="18">
+      <formula concise="C 12 H 7">
+        <atomArray elementType="C H" count="12.0 7.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="18Loss">
+      <formula concise="C 1 H 2 O 2">
+        <atomArray elementType="C H O" count="1.0 2.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="2">
+      <formula concise="C 14 H 9 O 3">
+        <atomArray elementType="C H O" count="14.0 9.0 3.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="21">
+      <formula concise="C 12 H 7 O 1">
+        <atomArray elementType="C H O" count="12.0 7.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="21Loss">
+      <formula concise="C 2 H 1 O 1">
+        <atomArray elementType="C H O" count="2.0 1.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="23">
+      <formula concise="C 12 H 9 O 1">
+        <atomArray elementType="C H O" count="12.0 9.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="23Loss">
+      <formula concise="C 1 O 1">
+        <atomArray elementType="C O" count="1.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="24">
+      <formula concise="C 13 H 7 O 2">
+        <atomArray elementType="C H O" count="13.0 7.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="24Loss">
+      <formula concise="H 2">
+        <atomArray elementType="H" count="2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="25">
+      <formula concise="C 7 H 5 O 2">
+        <atomArray elementType="C H O" count="7.0 5.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="25Loss">
+      <formula concise="C 6 H 4">
+        <atomArray elementType="C H" count="6.0 4.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="26">
+      <formula concise="C 13 H 7 O 1">
+        <atomArray elementType="C H O" count="13.0 7.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="26Loss">
+      <formula concise="H 2 O 1">
+        <atomArray elementType="H O" count="2.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="27">
+      <formula concise="C 12 H 7 O 1">
+        <atomArray elementType="C H O" count="12.0 7.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="27Loss">
+      <formula concise="C 1 H 2 O 1">
+        <atomArray elementType="C H O" count="1.0 2.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="28">
+      <formula concise="C 12 H 7">
+        <atomArray elementType="C H" count="12.0 7.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="28Loss">
+      <formula concise="C 1 H 2 O 2">
+        <atomArray elementType="C H O" count="1.0 2.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="29">
+      <formula concise="C 12 H 9">
+        <atomArray elementType="C H" count="12.0 9.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="29Loss">
+      <formula concise="C 1 O 1">
+        <atomArray elementType="C O" count="1.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="2Loss">
+      <formula concise="C 1 O 1">
+        <atomArray elementType="C O" count="1.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="34">
+      <formula concise="C 15 H 9 O 4">
+        <atomArray elementType="C H O" count="15.0 9.0 4.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="35">
+      <formula concise="C 14 H 9 O 3">
+        <atomArray elementType="C H O" count="14.0 9.0 3.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="35Loss">
+      <formula concise="C 1 O 1">
+        <atomArray elementType="C O" count="1.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="37">
+      <formula concise="C 14 H 9 O 2">
+        <atomArray elementType="C H O" count="14.0 9.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="37Loss">
+      <formula concise="C 1 O 2">
+        <atomArray elementType="C O" count="1.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="38">
+      <formula concise="C 13 H 9 O 2">
+        <atomArray elementType="C H O" count="13.0 9.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="38Loss">
+      <formula concise="C 2 O 2">
+        <atomArray elementType="C O" count="2.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="39">
+      <formula concise="C 14 H 8 O 2">
+        <atomArray elementType="C H O" count="14.0 8.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="39Loss">
+      <formula concise="C 1 H 1 O 2">
+        <atomArray elementType="C H O" count="1.0 1.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="4">
+      <formula concise="C 14 H 9 O 2">
+        <atomArray elementType="C H O" count="14.0 9.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="40">
+      <formula concise="C 13 H 9 O 2">
+        <atomArray elementType="C H O" count="13.0 9.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="40Loss">
+      <formula concise="C 1 O 1">
+        <atomArray elementType="C O" count="1.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="42">
+      <formula concise="C 13 H 9 O 1">
+        <atomArray elementType="C H O" count="13.0 9.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="42Loss">
+      <formula concise="C 1 O 1">
+        <atomArray elementType="C O" count="1.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="43">
+      <formula concise="C 12 H 7 O 1">
+        <atomArray elementType="C H O" count="12.0 7.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="43Loss">
+      <formula concise="C 2 H 2 O 1">
+        <atomArray elementType="C H O" count="2.0 2.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="46">
+      <formula concise="C 13 H 7 O 2">
+        <atomArray elementType="C H O" count="13.0 7.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="46Loss">
+      <formula concise="H 2">
+        <atomArray elementType="H" count="2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="47">
+      <formula concise="C 12 H 9 O 1">
+        <atomArray elementType="C H O" count="12.0 9.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="47Loss">
+      <formula concise="C 1 O 1">
+        <atomArray elementType="C O" count="1.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="48">
+      <formula concise="C 7 H 5 O 2">
+        <atomArray elementType="C H O" count="7.0 5.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="48Loss">
+      <formula concise="C 6 H 4">
+        <atomArray elementType="C H" count="6.0 4.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="49">
+      <formula concise="C 13 H 7 O 1">
+        <atomArray elementType="C H O" count="13.0 7.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="49Loss">
+      <formula concise="H 2 O 1">
+        <atomArray elementType="H O" count="2.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="4Loss">
+      <formula concise="C 1 O 2">
+        <atomArray elementType="C O" count="1.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="5">
+      <formula concise="C 13 H 9 O 2">
+        <atomArray elementType="C H O" count="13.0 9.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="50">
+      <formula concise="C 12 H 7 O 1">
+        <atomArray elementType="C H O" count="12.0 7.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="50Loss">
+      <formula concise="C 1 H 2 O 1">
+        <atomArray elementType="C H O" count="1.0 2.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="51">
+      <formula concise="C 12 H 7">
+        <atomArray elementType="C H" count="12.0 7.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="51Loss">
+      <formula concise="C 1 H 2 O 2">
+        <atomArray elementType="C H O" count="1.0 2.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="54">
+      <formula concise="C 12 H 7 O 1">
+        <atomArray elementType="C H O" count="12.0 7.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="54Loss">
+      <formula concise="C 2 H 1 O 1">
+        <atomArray elementType="C H O" count="2.0 1.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="57">
+      <formula concise="C 12 H 9 O 1">
+        <atomArray elementType="C H O" count="12.0 9.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="57Loss">
+      <formula concise="C 1 O 1">
+        <atomArray elementType="C O" count="1.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="58">
+      <formula concise="C 13 H 7 O 2">
+        <atomArray elementType="C H O" count="13.0 7.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="58Loss">
+      <formula concise="H 2">
+        <atomArray elementType="H" count="2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="59">
+      <formula concise="C 7 H 5 O 2">
+        <atomArray elementType="C H O" count="7.0 5.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="59Loss">
+      <formula concise="C 6 H 4">
+        <atomArray elementType="C H" count="6.0 4.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="5Loss">
+      <formula concise="C 2 O 2">
+        <atomArray elementType="C O" count="2.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="6">
+      <formula concise="C 14 H 8 O 2">
+        <atomArray elementType="C H O" count="14.0 8.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="60">
+      <formula concise="C 13 H 7 O 1">
+        <atomArray elementType="C H O" count="13.0 7.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="60Loss">
+      <formula concise="H 2 O 1">
+        <atomArray elementType="H O" count="2.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="61">
+      <formula concise="C 12 H 9">
+        <atomArray elementType="C H" count="12.0 9.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="61Loss">
+      <formula concise="C 1 O 1">
+        <atomArray elementType="C O" count="1.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="66">
+      <formula concise="C 15 H 9 O 4">
+        <atomArray elementType="C H O" count="15.0 9.0 4.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="67">
+      <formula concise="C 14 H 9 O 3">
+        <atomArray elementType="C H O" count="14.0 9.0 3.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="67Loss">
+      <formula concise="C 1 O 1">
+        <atomArray elementType="C O" count="1.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="69">
+      <formula concise="C 14 H 9 O 2">
+        <atomArray elementType="C H O" count="14.0 9.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="69Loss">
+      <formula concise="C 1 O 2">
+        <atomArray elementType="C O" count="1.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="6Loss">
+      <formula concise="C 1 H 1 O 2">
+        <atomArray elementType="C H O" count="1.0 1.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="7">
+      <formula concise="C 13 H 9 O 2">
+        <atomArray elementType="C H O" count="13.0 9.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="70">
+      <formula concise="C 13 H 9 O 2">
+        <atomArray elementType="C H O" count="13.0 9.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="70Loss">
+      <formula concise="C 2 O 2">
+        <atomArray elementType="C O" count="2.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="71">
+      <formula concise="C 14 H 8 O 2">
+        <atomArray elementType="C H O" count="14.0 8.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="71Loss">
+      <formula concise="C 1 H 1 O 2">
+        <atomArray elementType="C H O" count="1.0 1.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="72">
+      <formula concise="C 13 H 9 O 2">
+        <atomArray elementType="C H O" count="13.0 9.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="72Loss">
+      <formula concise="C 1 O 1">
+        <atomArray elementType="C O" count="1.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="74">
+      <formula concise="C 13 H 9 O 1">
+        <atomArray elementType="C H O" count="13.0 9.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="74Loss">
+      <formula concise="C 1 O 1">
+        <atomArray elementType="C O" count="1.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="75">
+      <formula concise="C 12 H 7 O 1">
+        <atomArray elementType="C H O" count="12.0 7.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="75Loss">
+      <formula concise="C 2 H 2 O 1">
+        <atomArray elementType="C H O" count="2.0 2.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="77">
+      <formula concise="C 12 H 9">
+        <atomArray elementType="C H" count="12.0 9.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="77Loss">
+      <formula concise="C 2 O 2">
+        <atomArray elementType="C O" count="2.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="79">
+      <formula concise="C 13 H 7 O 2">
+        <atomArray elementType="C H O" count="13.0 7.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="79Loss">
+      <formula concise="H 2">
+        <atomArray elementType="H" count="2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="7Loss">
+      <formula concise="C 1 O 1">
+        <atomArray elementType="C O" count="1.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="80">
+      <formula concise="C 12 H 9 O 1">
+        <atomArray elementType="C H O" count="12.0 9.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="80Loss">
+      <formula concise="C 1 O 1">
+        <atomArray elementType="C O" count="1.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="81">
+      <formula concise="C 7 H 5 O 2">
+        <atomArray elementType="C H O" count="7.0 5.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="81Loss">
+      <formula concise="C 6 H 4">
+        <atomArray elementType="C H" count="6.0 4.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="82">
+      <formula concise="C 13 H 7 O 1">
+        <atomArray elementType="C H O" count="13.0 7.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="82Loss">
+      <formula concise="H 2 O 1">
+        <atomArray elementType="H O" count="2.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="83">
+      <formula concise="C 12 H 7 O 1">
+        <atomArray elementType="C H O" count="12.0 7.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="83Loss">
+      <formula concise="C 1 H 2 O 1">
+        <atomArray elementType="C H O" count="1.0 2.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="84">
+      <formula concise="C 12 H 7">
+        <atomArray elementType="C H" count="12.0 7.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="84Loss">
+      <formula concise="C 1 H 2 O 2">
+        <atomArray elementType="C H O" count="1.0 2.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="86">
+      <formula concise="C 12 H 7 O 1">
+        <atomArray elementType="C H O" count="12.0 7.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="86Loss">
+      <formula concise="C 2 H 1 O 1">
+        <atomArray elementType="C H O" count="2.0 1.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="88">
+      <formula concise="C 12 H 9 O 1">
+        <atomArray elementType="C H O" count="12.0 9.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="88Loss">
+      <formula concise="C 1 O 1">
+        <atomArray elementType="C O" count="1.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="89">
+      <formula concise="C 13 H 7 O 2">
+        <atomArray elementType="C H O" count="13.0 7.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="89Loss">
+      <formula concise="H 2">
+        <atomArray elementType="H" count="2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="9">
+      <formula concise="C 13 H 9 O 1">
+        <atomArray elementType="C H O" count="13.0 9.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="90">
+      <formula concise="C 7 H 5 O 2">
+        <atomArray elementType="C H O" count="7.0 5.0 2.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="90Loss">
+      <formula concise="C 6 H 4">
+        <atomArray elementType="C H" count="6.0 4.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="91">
+      <formula concise="C 13 H 7 O 1">
+        <atomArray elementType="C H O" count="13.0 7.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="91Loss">
+      <formula concise="H 2 O 1">
+        <atomArray elementType="H O" count="2.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="92">
+      <formula concise="C 12 H 7 O 1">
+        <atomArray elementType="C H O" count="12.0 7.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="92Loss">
+      <formula concise="C 1 H 2 O 1">
+        <atomArray elementType="C H O" count="1.0 2.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="93">
+      <formula concise="C 12 H 9">
+        <atomArray elementType="C H" count="12.0 9.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="93Loss">
+      <formula concise="C 1 O 1">
+        <atomArray elementType="C O" count="1.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="96">
+      <formula concise="C 11 H 9">
+        <atomArray elementType="C H" count="11.0 9.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="96Loss">
+      <formula concise="C 1 O 1">
+        <atomArray elementType="C O" count="1.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="98">
+      <formula concise="C 15 H 9 O 4">
+        <atomArray elementType="C H O" count="15.0 9.0 4.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="99">
+      <formula concise="C 14 H 9 O 3">
+        <atomArray elementType="C H O" count="14.0 9.0 3.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">-1.0</scalar>
+    </molecule>
+    <molecule id="99Loss">
+      <formula concise="C 1 O 1">
+        <atomArray elementType="C O" count="1.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+    <molecule id="9Loss">
+      <formula concise="C 1 O 1">
+        <atomArray elementType="C O" count="1.0 1.0"/>
+      </formula>
+      <scalar dictRef="cdk:molecularProperty" title="cdk:partialCharge" dataType="xsd:string">0.0</scalar>
+    </molecule>
+  </moleculeList>
+  <reactionScheme xmlns="http://www.xml-cml.org/schema">
+    <reaction id="react1">
+      <reactantList>
+        <reactant>
+          <molecule ref="1"/>
+        </reactant>
+      </reactantList>
+      <productList>
+        <product>
+          <molecule ref="2"/>
+        </product>
+        <product>
+          <molecule ref="2Loss"/>
+        </product>
+      </productList>
+      <substanceList/>
+    </reaction>
+    <reaction id="react10">
+      <reactantList>
+        <reactant>
+          <molecule ref="1"/>
+        </reactant>
+      </reactantList>
+      <productList>
+        <product>
+          <molecule ref="4"/>
+        </product>
+        <product>
+          <molecule ref="4Loss"/>
+        </product>
+      </productList>
+      <substanceList/>
+    </reaction>
+    <reaction id="react16">
+      <reactantList>
+        <reactant>
+          <molecule ref="1"/>
+        </reactant>
+      </reactantList>
+      <productList>
+        <product>
+          <molecule ref="5"/>
+        </product>
+        <product>
+          <molecule ref="5Loss"/>
+        </product>
+      </productList>
+      <substanceList/>
+    </reaction>
+    <reaction id="react23">
+      <reactantList>
+        <reactant>
+          <molecule ref="1"/>
+        </reactant>
+      </reactantList>
+      <productList>
+        <product>
+          <molecule ref="6"/>
+        </product>
+        <product>
+          <molecule ref="6Loss"/>
+        </product>
+      </productList>
+      <substanceList/>
+    </reaction>
+    <reaction id="react27">
+      <reactantList>
+        <reactant>
+          <molecule ref="34"/>
+        </reactant>
+      </reactantList>
+      <productList>
+        <product>
+          <molecule ref="35"/>
+        </product>
+        <product>
+          <molecule ref="35Loss"/>
+        </product>
+      </productList>
+      <substanceList/>
+    </reaction>
+    <reaction id="react34">
+      <reactantList>
+        <reactant>
+          <molecule ref="34"/>
+        </reactant>
+      </reactantList>
+      <productList>
+        <product>
+          <molecule ref="37"/>
+        </product>
+        <product>
+          <molecule ref="37Loss"/>
+        </product>
+      </productList>
+      <substanceList/>
+    </reaction>
+    <reaction id="react38">
+      <reactantList>
+        <reactant>
+          <molecule ref="34"/>
+        </reactant>
+      </reactantList>
+      <productList>
+        <product>
+          <molecule ref="38"/>
+        </product>
+        <product>
+          <molecule ref="38Loss"/>
+        </product>
+      </productList>
+      <substanceList/>
+    </reaction>
+    <reaction id="react46">
+      <reactantList>
+        <reactant>
+          <molecule ref="34"/>
+        </reactant>
+      </reactantList>
+      <productList>
+        <product>
+          <molecule ref="39"/>
+        </product>
+        <product>
+          <molecule ref="39Loss"/>
+        </product>
+      </productList>
+      <substanceList/>
+    </reaction>
+    <reaction id="react50">
+      <reactantList>
+        <reactant>
+          <molecule ref="66"/>
+        </reactant>
+      </reactantList>
+      <productList>
+        <product>
+          <molecule ref="67"/>
+        </product>
+        <product>
+          <molecule ref="67Loss"/>
+        </product>
+      </productList>
+      <substanceList/>
+    </reaction>
+    <reaction id="react58">
+      <reactantList>
+        <reactant>
+          <molecule ref="66"/>
+        </reactant>
+      </reactantList>
+      <productList>
+        <product>
+          <molecule ref="69"/>
+        </product>
+        <product>
+          <molecule ref="69Loss"/>
+        </product>
+      </productList>
+      <substanceList/>
+    </reaction>
+    <reaction id="react64">
+      <reactantList>
+        <reactant>
+          <molecule ref="66"/>
+        </reactant>
+      </reactantList>
+      <productList>
+        <product>
+          <molecule ref="70"/>
+        </product>
+        <product>
+          <molecule ref="70Loss"/>
+        </product>
+      </productList>
+      <substanceList/>
+    </reaction>
+    <reaction id="react72">
+      <reactantList>
+        <reactant>
+          <molecule ref="66"/>
+        </reactant>
+      </reactantList>
+      <productList>
+        <product>
+          <molecule ref="71"/>
+        </product>
+        <product>
+          <molecule ref="71Loss"/>
+        </product>
+      </productList>
+      <substanceList/>
+    </reaction>
+    <reaction id="react75">
+      <reactantList>
+        <reactant>
+          <molecule ref="98"/>
+        </reactant>
+      </reactantList>
+      <productList>
+        <product>
+          <molecule ref="99"/>
+        </product>
+        <product>
+          <molecule ref="99Loss"/>
+        </product>
+      </productList>
+      <substanceList/>
+    </reaction>
+    <reaction id="react82">
+      <reactantList>
+        <reactant>
+          <molecule ref="98"/>
+        </reactant>
+      </reactantList>
+      <productList>
+        <product>
+          <molecule ref="101"/>
+        </product>
+        <product>
+          <molecule ref="101Loss"/>
+        </product>
+      </productList>
+      <substanceList/>
+    </reaction>
+    <reaction id="react86">
+      <reactantList>
+        <reactant>
+          <molecule ref="98"/>
+        </reactant>
+      </reactantList>
+      <productList>
+        <product>
+          <molecule ref="102"/>
+        </product>
+        <product>
+          <molecule ref="102Loss"/>
+        </product>
+      </productList>
+      <substanceList/>
+    </reaction>
+    <reaction id="react92">
+      <reactantList>
+        <reactant>
+          <molecule ref="98"/>
+        </reactant>
+      </reactantList>
+      <productList>
+        <product>
+          <molecule ref="103"/>
+        </product>
+        <product>
+          <molecule ref="103Loss"/>
+        </product>
+      </productList>
+      <substanceList/>
+    </reaction>
+    <reaction id="react95">
+      <reactantList>
+        <reactant>
+          <molecule ref="98"/>
+        </reactant>
+      </reactantList>
+      <productList>
+        <product>
+          <molecule ref="104"/>
+        </product>
+        <product>
+          <molecule ref="104Loss"/>
+        </product>
+      </productList>
+      <substanceList/>
+    </reaction>
+    <reactionScheme>
+      <reaction id="react2">
+        <reactantList>
+          <reactant>
+            <molecule ref="2"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="7"/>
+          </product>
+          <product>
+            <molecule ref="7Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+      <reactionScheme>
+        <reaction id="react5">
+          <reactantList>
+            <reactant>
+              <molecule ref="7"/>
+            </reactant>
+          </reactantList>
+          <productList>
+            <product>
+              <molecule ref="24"/>
+            </product>
+            <product>
+              <molecule ref="24Loss"/>
+            </product>
+          </productList>
+          <substanceList/>
+        </reaction>
+        <reaction id="react6">
+          <reactantList>
+            <reactant>
+              <molecule ref="7"/>
+            </reactant>
+          </reactantList>
+          <productList>
+            <product>
+              <molecule ref="25"/>
+            </product>
+            <product>
+              <molecule ref="25Loss"/>
+            </product>
+          </productList>
+          <substanceList/>
+        </reaction>
+        <reaction id="react7">
+          <reactantList>
+            <reactant>
+              <molecule ref="7"/>
+            </reactant>
+          </reactantList>
+          <productList>
+            <product>
+              <molecule ref="26"/>
+            </product>
+            <product>
+              <molecule ref="26Loss"/>
+            </product>
+          </productList>
+          <substanceList/>
+        </reaction>
+        <reaction id="react8">
+          <reactantList>
+            <reactant>
+              <molecule ref="7"/>
+            </reactant>
+          </reactantList>
+          <productList>
+            <product>
+              <molecule ref="27"/>
+            </product>
+            <product>
+              <molecule ref="27Loss"/>
+            </product>
+          </productList>
+          <substanceList/>
+        </reaction>
+        <reaction id="react9">
+          <reactantList>
+            <reactant>
+              <molecule ref="7"/>
+            </reactant>
+          </reactantList>
+          <productList>
+            <product>
+              <molecule ref="28"/>
+            </product>
+            <product>
+              <molecule ref="28Loss"/>
+            </product>
+          </productList>
+          <substanceList/>
+        </reaction>
+        <reaction id="react3">
+          <reactantList>
+            <reactant>
+              <molecule ref="7"/>
+            </reactant>
+          </reactantList>
+          <productList>
+            <product>
+              <molecule ref="23"/>
+            </product>
+            <product>
+              <molecule ref="23Loss"/>
+            </product>
+          </productList>
+          <substanceList/>
+        </reaction>
+      </reactionScheme>
+    </reactionScheme>
+    <reactionScheme>
+      <reaction id="react13">
+        <reactantList>
+          <reactant>
+            <molecule ref="4"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="10"/>
+          </product>
+          <product>
+            <molecule ref="10Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+      <reaction id="react14">
+        <reactantList>
+          <reactant>
+            <molecule ref="4"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="11"/>
+          </product>
+          <product>
+            <molecule ref="11Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+      <reaction id="react15">
+        <reactantList>
+          <reactant>
+            <molecule ref="4"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="12"/>
+          </product>
+          <product>
+            <molecule ref="12Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+      <reaction id="react11">
+        <reactantList>
+          <reactant>
+            <molecule ref="4"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="9"/>
+          </product>
+          <product>
+            <molecule ref="9Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+      <reactionScheme>
+        <reaction id="react12">
+          <reactantList>
+            <reactant>
+              <molecule ref="9"/>
+            </reactant>
+          </reactantList>
+          <productList>
+            <product>
+              <molecule ref="29"/>
+            </product>
+            <product>
+              <molecule ref="29Loss"/>
+            </product>
+          </productList>
+          <substanceList/>
+        </reaction>
+      </reactionScheme>
+    </reactionScheme>
+    <reactionScheme>
+      <reaction id="react19">
+        <reactantList>
+          <reactant>
+            <molecule ref="5"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="15"/>
+          </product>
+          <product>
+            <molecule ref="15Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+      <reaction id="react20">
+        <reactantList>
+          <reactant>
+            <molecule ref="5"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="16"/>
+          </product>
+          <product>
+            <molecule ref="16Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+      <reaction id="react21">
+        <reactantList>
+          <reactant>
+            <molecule ref="5"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="17"/>
+          </product>
+          <product>
+            <molecule ref="17Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+      <reaction id="react22">
+        <reactantList>
+          <reactant>
+            <molecule ref="5"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="18"/>
+          </product>
+          <product>
+            <molecule ref="18Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+      <reaction id="react17">
+        <reactantList>
+          <reactant>
+            <molecule ref="5"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="14"/>
+          </product>
+          <product>
+            <molecule ref="14Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+    </reactionScheme>
+    <reactionScheme>
+      <reaction id="react26">
+        <reactantList>
+          <reactant>
+            <molecule ref="6"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="21"/>
+          </product>
+          <product>
+            <molecule ref="21Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+    </reactionScheme>
+    <reactionScheme>
+      <reaction id="react28">
+        <reactantList>
+          <reactant>
+            <molecule ref="35"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="40"/>
+          </product>
+          <product>
+            <molecule ref="40Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+      <reactionScheme>
+        <reaction id="react31">
+          <reactantList>
+            <reactant>
+              <molecule ref="40"/>
+            </reactant>
+          </reactantList>
+          <productList>
+            <product>
+              <molecule ref="58"/>
+            </product>
+            <product>
+              <molecule ref="58Loss"/>
+            </product>
+          </productList>
+          <substanceList/>
+        </reaction>
+        <reaction id="react32">
+          <reactantList>
+            <reactant>
+              <molecule ref="40"/>
+            </reactant>
+          </reactantList>
+          <productList>
+            <product>
+              <molecule ref="59"/>
+            </product>
+            <product>
+              <molecule ref="59Loss"/>
+            </product>
+          </productList>
+          <substanceList/>
+        </reaction>
+        <reaction id="react33">
+          <reactantList>
+            <reactant>
+              <molecule ref="40"/>
+            </reactant>
+          </reactantList>
+          <productList>
+            <product>
+              <molecule ref="60"/>
+            </product>
+            <product>
+              <molecule ref="60Loss"/>
+            </product>
+          </productList>
+          <substanceList/>
+        </reaction>
+        <reaction id="react29">
+          <reactantList>
+            <reactant>
+              <molecule ref="40"/>
+            </reactant>
+          </reactantList>
+          <productList>
+            <product>
+              <molecule ref="57"/>
+            </product>
+            <product>
+              <molecule ref="57Loss"/>
+            </product>
+          </productList>
+          <substanceList/>
+        </reaction>
+      </reactionScheme>
+    </reactionScheme>
+    <reactionScheme>
+      <reaction id="react37">
+        <reactantList>
+          <reactant>
+            <molecule ref="37"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="43"/>
+          </product>
+          <product>
+            <molecule ref="43Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+      <reaction id="react35">
+        <reactantList>
+          <reactant>
+            <molecule ref="37"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="42"/>
+          </product>
+          <product>
+            <molecule ref="42Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+      <reactionScheme>
+        <reaction id="react36">
+          <reactantList>
+            <reactant>
+              <molecule ref="42"/>
+            </reactant>
+          </reactantList>
+          <productList>
+            <product>
+              <molecule ref="61"/>
+            </product>
+            <product>
+              <molecule ref="61Loss"/>
+            </product>
+          </productList>
+          <substanceList/>
+        </reaction>
+      </reactionScheme>
+    </reactionScheme>
+    <reactionScheme>
+      <reaction id="react39">
+        <reactantList>
+          <reactant>
+            <molecule ref="38"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="46"/>
+          </product>
+          <product>
+            <molecule ref="46Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+      <reaction id="react42">
+        <reactantList>
+          <reactant>
+            <molecule ref="38"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="48"/>
+          </product>
+          <product>
+            <molecule ref="48Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+      <reaction id="react43">
+        <reactantList>
+          <reactant>
+            <molecule ref="38"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="49"/>
+          </product>
+          <product>
+            <molecule ref="49Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+      <reaction id="react44">
+        <reactantList>
+          <reactant>
+            <molecule ref="38"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="50"/>
+          </product>
+          <product>
+            <molecule ref="50Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+      <reaction id="react45">
+        <reactantList>
+          <reactant>
+            <molecule ref="38"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="51"/>
+          </product>
+          <product>
+            <molecule ref="51Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+      <reaction id="react40">
+        <reactantList>
+          <reactant>
+            <molecule ref="38"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="47"/>
+          </product>
+          <product>
+            <molecule ref="47Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+    </reactionScheme>
+    <reactionScheme>
+      <reaction id="react48">
+        <reactantList>
+          <reactant>
+            <molecule ref="39"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="54"/>
+          </product>
+          <product>
+            <molecule ref="54Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+    </reactionScheme>
+    <reactionScheme>
+      <reaction id="react51">
+        <reactantList>
+          <reactant>
+            <molecule ref="67"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="72"/>
+          </product>
+          <product>
+            <molecule ref="72Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+      <reactionScheme>
+        <reaction id="react54">
+          <reactantList>
+            <reactant>
+              <molecule ref="72"/>
+            </reactant>
+          </reactantList>
+          <productList>
+            <product>
+              <molecule ref="89"/>
+            </product>
+            <product>
+              <molecule ref="89Loss"/>
+            </product>
+          </productList>
+          <substanceList/>
+        </reaction>
+        <reaction id="react55">
+          <reactantList>
+            <reactant>
+              <molecule ref="72"/>
+            </reactant>
+          </reactantList>
+          <productList>
+            <product>
+              <molecule ref="90"/>
+            </product>
+            <product>
+              <molecule ref="90Loss"/>
+            </product>
+          </productList>
+          <substanceList/>
+        </reaction>
+        <reaction id="react56">
+          <reactantList>
+            <reactant>
+              <molecule ref="72"/>
+            </reactant>
+          </reactantList>
+          <productList>
+            <product>
+              <molecule ref="91"/>
+            </product>
+            <product>
+              <molecule ref="91Loss"/>
+            </product>
+          </productList>
+          <substanceList/>
+        </reaction>
+        <reaction id="react57">
+          <reactantList>
+            <reactant>
+              <molecule ref="72"/>
+            </reactant>
+          </reactantList>
+          <productList>
+            <product>
+              <molecule ref="92"/>
+            </product>
+            <product>
+              <molecule ref="92Loss"/>
+            </product>
+          </productList>
+          <substanceList/>
+        </reaction>
+        <reaction id="react52">
+          <reactantList>
+            <reactant>
+              <molecule ref="72"/>
+            </reactant>
+          </reactantList>
+          <productList>
+            <product>
+              <molecule ref="88"/>
+            </product>
+            <product>
+              <molecule ref="88Loss"/>
+            </product>
+          </productList>
+          <substanceList/>
+        </reaction>
+        <reactionScheme>
+          <reaction id="react53">
+            <reactantList>
+              <reactant>
+                <molecule ref="88"/>
+              </reactant>
+            </reactantList>
+            <productList>
+              <product>
+                <molecule ref="96"/>
+              </product>
+              <product>
+                <molecule ref="96Loss"/>
+              </product>
+            </productList>
+            <substanceList/>
+          </reaction>
+        </reactionScheme>
+      </reactionScheme>
+    </reactionScheme>
+    <reactionScheme>
+      <reaction id="react63">
+        <reactantList>
+          <reactant>
+            <molecule ref="69"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="77"/>
+          </product>
+          <product>
+            <molecule ref="77Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+      <reaction id="react59">
+        <reactantList>
+          <reactant>
+            <molecule ref="69"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="74"/>
+          </product>
+          <product>
+            <molecule ref="74Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+      <reaction id="react61">
+        <reactantList>
+          <reactant>
+            <molecule ref="69"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="75"/>
+          </product>
+          <product>
+            <molecule ref="75Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+      <reactionScheme>
+        <reaction id="react60">
+          <reactantList>
+            <reactant>
+              <molecule ref="74"/>
+            </reactant>
+          </reactantList>
+          <productList>
+            <product>
+              <molecule ref="93"/>
+            </product>
+            <product>
+              <molecule ref="93Loss"/>
+            </product>
+          </productList>
+          <substanceList/>
+        </reaction>
+      </reactionScheme>
+    </reactionScheme>
+    <reactionScheme>
+      <reaction id="react67">
+        <reactantList>
+          <reactant>
+            <molecule ref="70"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="80"/>
+          </product>
+          <product>
+            <molecule ref="80Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+      <reaction id="react68">
+        <reactantList>
+          <reactant>
+            <molecule ref="70"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="81"/>
+          </product>
+          <product>
+            <molecule ref="81Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+      <reaction id="react69">
+        <reactantList>
+          <reactant>
+            <molecule ref="70"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="82"/>
+          </product>
+          <product>
+            <molecule ref="82Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+      <reaction id="react70">
+        <reactantList>
+          <reactant>
+            <molecule ref="70"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="83"/>
+          </product>
+          <product>
+            <molecule ref="83Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+      <reaction id="react71">
+        <reactantList>
+          <reactant>
+            <molecule ref="70"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="84"/>
+          </product>
+          <product>
+            <molecule ref="84Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+      <reaction id="react65">
+        <reactantList>
+          <reactant>
+            <molecule ref="70"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="79"/>
+          </product>
+          <product>
+            <molecule ref="79Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+    </reactionScheme>
+    <reactionScheme>
+      <reaction id="react74">
+        <reactantList>
+          <reactant>
+            <molecule ref="71"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="86"/>
+          </product>
+          <product>
+            <molecule ref="86Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+    </reactionScheme>
+    <reactionScheme>
+      <reaction id="react76">
+        <reactantList>
+          <reactant>
+            <molecule ref="99"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="105"/>
+          </product>
+          <product>
+            <molecule ref="105Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+      <reactionScheme>
+        <reaction id="react79">
+          <reactantList>
+            <reactant>
+              <molecule ref="105"/>
+            </reactant>
+          </reactantList>
+          <productList>
+            <product>
+              <molecule ref="119"/>
+            </product>
+            <product>
+              <molecule ref="119Loss"/>
+            </product>
+          </productList>
+          <substanceList/>
+        </reaction>
+        <reaction id="react80">
+          <reactantList>
+            <reactant>
+              <molecule ref="105"/>
+            </reactant>
+          </reactantList>
+          <productList>
+            <product>
+              <molecule ref="120"/>
+            </product>
+            <product>
+              <molecule ref="120Loss"/>
+            </product>
+          </productList>
+          <substanceList/>
+        </reaction>
+        <reaction id="react81">
+          <reactantList>
+            <reactant>
+              <molecule ref="105"/>
+            </reactant>
+          </reactantList>
+          <productList>
+            <product>
+              <molecule ref="121"/>
+            </product>
+            <product>
+              <molecule ref="121Loss"/>
+            </product>
+          </productList>
+          <substanceList/>
+        </reaction>
+        <reaction id="react77">
+          <reactantList>
+            <reactant>
+              <molecule ref="105"/>
+            </reactant>
+          </reactantList>
+          <productList>
+            <product>
+              <molecule ref="118"/>
+            </product>
+            <product>
+              <molecule ref="118Loss"/>
+            </product>
+          </productList>
+          <substanceList/>
+        </reaction>
+        <reactionScheme>
+          <reaction id="react78">
+            <reactantList>
+              <reactant>
+                <molecule ref="118"/>
+              </reactant>
+            </reactantList>
+            <productList>
+              <product>
+                <molecule ref="124"/>
+              </product>
+              <product>
+                <molecule ref="124Loss"/>
+              </product>
+            </productList>
+            <substanceList/>
+          </reaction>
+        </reactionScheme>
+      </reactionScheme>
+    </reactionScheme>
+    <reactionScheme>
+      <reaction id="react85">
+        <reactantList>
+          <reactant>
+            <molecule ref="101"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="108"/>
+          </product>
+          <product>
+            <molecule ref="108Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+      <reaction id="react83">
+        <reactantList>
+          <reactant>
+            <molecule ref="101"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="107"/>
+          </product>
+          <product>
+            <molecule ref="107Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+      <reactionScheme>
+        <reaction id="react84">
+          <reactantList>
+            <reactant>
+              <molecule ref="107"/>
+            </reactant>
+          </reactantList>
+          <productList>
+            <product>
+              <molecule ref="122"/>
+            </product>
+            <product>
+              <molecule ref="122Loss"/>
+            </product>
+          </productList>
+          <substanceList/>
+        </reaction>
+      </reactionScheme>
+    </reactionScheme>
+    <reactionScheme>
+      <reaction id="react89">
+        <reactantList>
+          <reactant>
+            <molecule ref="102"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="111"/>
+          </product>
+          <product>
+            <molecule ref="111Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+      <reaction id="react90">
+        <reactantList>
+          <reactant>
+            <molecule ref="102"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="112"/>
+          </product>
+          <product>
+            <molecule ref="112Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+      <reaction id="react91">
+        <reactantList>
+          <reactant>
+            <molecule ref="102"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="113"/>
+          </product>
+          <product>
+            <molecule ref="113Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+      <reaction id="react87">
+        <reactantList>
+          <reactant>
+            <molecule ref="102"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="110"/>
+          </product>
+          <product>
+            <molecule ref="110Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+    </reactionScheme>
+    <reactionScheme>
+      <reaction id="react94">
+        <reactantList>
+          <reactant>
+            <molecule ref="103"/>
+          </reactant>
+        </reactantList>
+        <productList>
+          <product>
+            <molecule ref="115"/>
+          </product>
+          <product>
+            <molecule ref="115Loss"/>
+          </product>
+        </productList>
+        <substanceList/>
+      </reaction>
+    </reactionScheme>
+  </reactionScheme>
+</cml>
