@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main"/>
+	<classpathentry kind="src" path="src/test"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/jumbo-5.4.2-b1.jar"/>
+	<classpathentry kind="lib" path="lib/REngine.old.jar"/>
+	<classpathentry kind="lib" path="libDev/junit-4.5.jar"/>
+	<classpathentry kind="lib" path="libDev/log4j.jar"/>
+	<classpathentry kind="lib" path="lib/options.jar"/>
+	<classpathentry kind="lib" path="lib/cdk-1.2.3.git.jar" sourcepath="/org.openscience.cdk"/>
+	<classpathentry kind="output" path="build"/>
+</classpath>
