@@ -48,11 +48,18 @@ of the following other tools:
 ----------------------------------------------------------------------------------
 In order to use the MEF tool in your program, you need to run the jar file. An
 example using the command line could be that: 
-MEF/$ R CMD Rserve
-MEF/$ java -jar sams-0.1.git.jar -sn=1 -mzgap=0.5 -rint=0 -acc=5 -e=[C1..15,H1..9,O0..4,N0..2] -rules=[RDBER,nitrogenR] -imzXML  F002169_C15H9O4.mzXML -ocml  F002169_C15H9O4.cml process
+USER/$ R CMD Rserve
+USER/$ java -jar sams-0.1.git.jar -occurr=0.4 -sn=1 -mzgap=0.5 -rint=0 -acc=5 -e=[C1..15,H1..9,O0..4,N0..2] -rules=[RDBER,nitrogenR] -imzXML  F002169_C15H9O4.mzXML -ocml  F002169_C15H9O4.cml process
 
 After the process is finished it will be created a cml enriched with chemical
 information together with the spectra.
+
+Command to create a pdf file which show the fragmentation tree. 
+USER/$ java -jar sams-0.1.git.jar -icml F002169_C15H9O4.cml -opdf F002169_C15H9O4.pdf convert
+
+Command to compare two fragmentation trees. 
+USER/$ java -jar sams-0.1.git.jar -i1cml F002169_C15H9O4.cml -i2cml  F002169_C15H9O4.cml compare
+
 
 4. Help
 ----------------------------------------------------------------------------------
