@@ -58,6 +58,7 @@ public class PDFWriter {
 		StringWriter outputW = new StringWriter();
 		outputW.write(matrix);
 		boolean colors = false;
+		boolean colorsL = false;
 		try {
 			
 			BufferedReader reader = new BufferedReader(new StringReader(outputW.toString()));
@@ -148,6 +149,8 @@ public class PDFWriter {
 //		        	colorL.add("0");
 		        
 //		        if(ll.length > 16){
+		        if(!ll[16].equals("0"))
+		        	colorsL = true;
 			        colorLoL.add(ll[16]);
 //		        }else
 //		        	colorLoL.add("0");
@@ -177,7 +180,7 @@ public class PDFWriter {
 				}
 				String script = "colnames(graphEx) <- c('peakID','MSnParentPeakID','msLevel','sy','mass','los','masslos','color','colorLo') \n"+
 					"type = '"+type+"'\n";
-				if(colors)
+				if(colors || colorsL)
 					script += extractRScript3();
 				else if(conEC)
 					script += extractRScript();
