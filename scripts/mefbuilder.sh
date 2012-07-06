@@ -1,11 +1,8 @@
 #!/bin/sh
 
-# ***********************
-# script to build MEF
-#
-# Tested and working on:
-# MacBook 10.7 OS X
-# ***********************
+# **********************************************
+# script to install MEF/SAMSn dependencies
+# **********************************************
 
 lowercase(){
     echo "$1" | sed "y/ABCDEFGHIJKLMNOPQRSTUVWXYZ/abcdefghijklmnopqrstuvwxyz/"
@@ -29,7 +26,7 @@ echo "\nYou are running $OS".
 ######### Check if Curl is installed
 which curl &> /dev/null
 if [ $? -eq 1 ]; then
-    echo >&2 "\nCurl not found. Make sure Curl is installed"
+    echo >&2 "\nCurl not found. Make sure Curl (http://curl.haxx.se/download.html) is installed"
     exit 1
 fi
 
