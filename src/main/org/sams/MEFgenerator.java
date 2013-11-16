@@ -26,6 +26,7 @@ import org.openscience.cdk.interfaces.IReaction;
 import org.openscience.cdk.interfaces.IReactionScheme;
 import org.openscience.cdk.tools.LoggingTool;
 import org.openscience.cdk.tools.manipulator.ReactionSchemeManipulator;
+import org.sams.manipulator.PrintTools;
 import org.sams.spect.Accuracy;
 import org.sams.spect.ParentIon;
 import org.xmlcml.cml.base.CMLElements;
@@ -627,7 +628,7 @@ public class MEFgenerator {
 	 * @param polarity The Polarity
 	 * @return         The correct value mass
 	 */
-	private static double correctingMass(double mass, Polarity polarity) {
+	public static double correctingMass(double mass, Polarity polarity) {
 		/** Charge of the electron. */
 		double chargeE = 0.00054857990927;
 		
